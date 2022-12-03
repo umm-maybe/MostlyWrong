@@ -20,5 +20,6 @@ Haven't got time for that? Me neither! This "Cliff's Notes" version is for you. 
 4. Code and run the files *summarize_corpus.py* and *lw_csv2md.py*
 5. Review and lightly edit (e.g. to remove names that exist in the training corpus but not in the text)
 
-## [Here it is](lesswrong_summaries.md)
+## Where is it
+[Here](lesswrong_summaries.md)
 
