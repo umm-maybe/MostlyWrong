@@ -10,7 +10,7 @@ EY's blog [LessWrong](https://lesswrong.com) has become a popular forum for peop
 
 Presumably, you could get invited to the Alignment Forum by posting or commenting on LessWrong. But wait! On the front page of LessWrong you may see a notification urging you to read at least 50 of Elezier's blog posts (7 hours of reading) plus "Rationality A-Z", a collection of the blog posts he wrote daily for two years, before posting or commenting. 
 
-Haven't got time for that? Me neither! This "Cliff's Notes" version is for you. Skim it (or pretend to), and then go ask find some longtermists to pester!
+Haven't got time for that? Me neither! This "Cliff's Notes" version is for you. Skim it, and then go ask find some longtermists to pester!
 
 ## How I did it
 
