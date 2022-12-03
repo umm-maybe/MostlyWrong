@@ -8,7 +8,7 @@ The following is a set of summaries of posts by Eliezer Yudkowsky on his blog, [
 
 LessWrong has become a popular forum for people in the "AI Alignment" community.  In fact, there is an [Alignment Forum](https://www.alignmentforum.org/about) site which is "integrated" with LessWrong. You can log in there with your LessWrong username--except you can't post unless you have proven yourself worthy to be invited.
 
-If something about AI alignment discourse doesn't make sense to you, and you want to ask someone on the Alignment Forum for clarification, but haven't been invited, you might think you could get noticed by posting or commenting on LessWrong. But wait! On the front page of LessWrong you may see a notification urging you to read at least 50 of Elezier's blog posts (7 hours of reading) plus "Rationality A-Z", a collection of the blog posts he wrote daily for two years. 
+If something about AI alignment discourse doesn't make sense to you, and you want to ask someone on the Alignment Forum for clarification, but haven't been invited, you might think you could get noticed by posting or commenting on LessWrong. But wait! On the front page of LessWrong you may see a notification urging you to read at least 50 of Elezier's blog posts (7 hours of reading) plus "Rationality A-Z", a collection of the blog posts he wrote daily for two years, before participating in the community. 
 
 Haven't got time for that? Me neither! This "Cliff's Notes" version is for you. Skim it (or pretend to), and go pester some longtermists with short-term concerns!
 
