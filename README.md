@@ -16,7 +16,8 @@ Haven't got time for that? Me neither! This "Cliff's Notes" version is for you. 
 
 1. Download [the aforementioned blog posts in epub format](https://www.lesswrong.com/posts/ZYtwnKwXmEAWhm8dT/an-epub-of-eliezer-s-blog-posts)
 2. Convert them to txt [using Zamzar](https://www.zamzar.com/convert/epub-to-txt/)
-3. Create a python virtual environment and run `pip3 install transformers`
+3. Create a python virtual environment, activate it, and run `pip3 install transformers spacy`
+4. Then run `python -m spacy download en_core_web_sm`
 4. Code and run the files *summarize_corpus.py*
 
 ## Where is it
