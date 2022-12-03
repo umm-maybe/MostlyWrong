@@ -1,0 +1,1321 @@
+# The abbreviated Eliezer Yudkowsky
+## ...What's a bias, again?
+Bias is a certain kind of obstacle to our goal of obtaining truth. But there are many obstacles that are not "biases" We don't start out with a moral duty to "reduce bias"
+## The Modesty Argument
+The Modesty Argument states that when two or more human beings disagree about a question of simple fact, they should each adjust their probability estimates in the direction of the others' The argument is inspired by Aumann's Agreement Theorem.
+## "I don't know."
+An edited transcript of a long instant-messenger conversation that took place regarding the phrase, "I don't know" The conversation was sparked by Robin Hanson's previous post, "You Are Never Entitled to Your Opinion"
+## Some Claims Are Just Too Extraordinary
+"I would sooner believe that two Yankee professors would lie, than that stones would fall from heaven" -- Thomas Jefferson, on meteors. A peer-reviewed, journal-published, replicated report is worth far more than what you see with your own eyes. People can fool themselves, hallucinate, and even go insane.
+## Just Lose Hope Already
+Casey Serin, a 24-year-old web programmer with no prior experience in real estate, owes banks 2.2 million dollars. He lied on mortgage applications in order to simultaneously buy 8 different houses in different states.
+## You Are Not Hiring the Top 1%
+Every company thinks they're hiring the top 0.5% of software developers. But the best 999,801 always get jobs as soon as they apply for one.
+## Policy Debates Should Not Appear One-Sided
+Robin Hanson recently proposed stores where banned products could be sold. Some people thought it was an argument in favor of regulation.
+## Burch's Law
+Greg Burch: "I think people should have a right to be stupid" He says if they have that right, the market will respond by supplying as much stupidity as can be sold. Burch was speaking about sport-utility vehicles, which he feels are very poorly designed.
+## The Scales of Justice, the Notebook of Rationality
+Lady Justice is widely depicted as carrying a scales. A scales has the property that whatever pulls one side down, pushes the other side up. This makes things very convenient and easy to track. It's also usually a gross distortion.
+## Blue or Green on Regulation?
+In recent posts, Sebastian Thrun has predicted that, if not otherwise prevented, some people will behave stupidly and suffer the consequences. Thrun: People misinterpret this as indicating that I take a policy stance in favor of regulation. He says there are two and only two sides to the issue - pro-regulation and anti-regulation.
+## Superstimuli and the Collapse of Western Civilization
+At least three people have died playing online games for days without rest. People have lost their spouses, jobs, and children to World of Warcraft. If people have the right to play video games, the market is going to respond by supplying the most engaging video games that can be sold.
+## Useless Medical Disclaimers
+A doctor asked patients to sign a disclaimer form about the risks of infection, repeat surgery, chronic pain, amputation, spontaneous combustion, meteor strikes, and a plague of locusts o'er the land. The form contained no useful information.
+## Archimedes's Chronophone
+Think of how many generations of humanity would have benefited if certain ideas had been invented sooner, rather than later. If the Greeks had invented science - if the Romans had possessed printing presses - if Western civilization had turned against slavery in the thirteenth century. Imagine that Archimedes invented a temporal telephone which lets him talk to you, here in the 21st century.
+## Chronophone Motivations
+Chronophone transmits results of executing cognitive strategies, rather than words. If you say something considered obvious in your home culture, it comes out as something considered apparent in Archimedes's culture.
+## Self-deception: Hypocrisy or Akrasia?
+Robin Hanson has labeled such individuals hypocrites. In the traditional sense of the term, a hypocrite is a moral liar. We don't always live up to the goals we set for ourselves.
+## Tsuyoku Naritai! (I Want To Become Stronger)
+In Orthodox Judaism there is a saying: "The previous generation is to the next one as angels are to men" This follows from the belief that all Judaic law was given to Moses by God at Mount Sinai.
+## Tsuyoku vs. the Egalitarian Instinct
+If you can't admit to yourself that you've done better than others, then the median will forever be your concrete wall, the place where you stop moving forward. Maybe it's not healthy to pride yourself on doing better than someone else. But surely it isn't healthy to be ashamed of doing better.
+## "Statistical Bias"
+Bias as used in the field of statistics refers to directional error in an estimator. Statistical bias is error you cannot correct by repeating the experiment many times and averaging together the results.
+## Suggested Posts
+If you have a suggested Overcoming Bias topic you'd like to see discussed, post it in a comment here. But please don't actually discuss the topic with further comments, just give us the suggestion. This post is for topic suggestions, not topic discussions.
+## Priors as Mathematical Objects
+In the scriptures of Deep Bayesianism, such as Probability Theory: The Logic of Science, one finds a quite different concept - that of prior information. Our belief about the population frequency of breast cancer is only one small element of our prior information, as Bayes's Rule explains.
+## New Improved Lottery
+The New Improved Lottery pays out every five years on average, at a random time. You buy in once, for a single dollar, and get not just a few days of epsilon chance of becoming rich.
+## Universal Fire
+Antoine-Laurent de Lavoisier discovered fire in the late eighteenth century. He discovered that matter was neither created nor destroyed. He also discovered that humans, in the course of breathing, consumed vital air and breathed out fixed air. People, like fire, consumed fuel and oxygen. Deprive people of oxygen, or fuel, and the light goes out.
+## Universal Law
+The only time when it seems like we would want a law to hold everywhere is when we are talking about moral laws - tribal rules of behavior. The idea of a rule with literally no exceptions seems insanely rigid, the product of closed-minded thinking by fanatics.
+## Think Like Reality
+Reality has been around since long before you showed up. Don't go calling it nasty names like "bizarre" or "incredible" The universe was propagating complex amplitudes through configuration space for ten billion years before life ever emerged on Earth. A good model makes reality look normal, not weird.
+## Beware the Unsurprised
+In Think Like Reality, I put forth the proposition that when human intuitions disagree with a fact, we need to either disprove the "fact" in question, or try to reshape the intuition. Probability theory says that a model which is consistently surprised on the data is probably not a very good model.
+## The Third Alternative
+False dilemmas are often presented to justify unethical policies that are, by some vast coincidence, very convenient. If the goal is to justify a particular strategy by claiming that it helps people, a Third Alternative is an enemy argument.
+## Third Alternatives for Afterlife-ism
+The assumed task is to find a source of hope against looming death. You can find Third Alternatives to many dilemmas, but can you find one to Death? The old Noble Lie is dominated in the payoff table.
+## Scope Insensitivity
+People visualize "a single exhausted bird, its feathers soaked in black oil, unable to escape" This image, or prototype, calls forth some level of emotional arousal. As for scope, it gets tossed out the window - no human can visualize 2000 birds at once.
+## One Life Against the World
+"Whoever saves a single life, it is as if he had saved the whole world" -- The Talmud, Sanhedrin 4:5. "Saving one life probably does feel just as good as being the first person to realize what makes the stars shine" "When human lives are at stake, we have a duty to maximize, not satisfice"
+## Risk-Free Bonds Aren't
+Nassim Nicholas Taleb's latest, The Black Swan, is about the impact of unknown unknowns. Taleb inveighs against the dangers of induction, the ludic fallacy, hindsight, survivorship bias. He suggests putting a portion of your money in extremely safe instruments, like Treasury bills.
+## Correspondence Bias
+The correspondence bias is the tendency to draw inferences about a person's unique and enduring dispositions from behaviors that can be entirely explained by the situations in which they occur. We tend to see far too direct a correspondence between others' actions and personalities.
+## Are Your Enemies Innately Evil?
+When someone actually offends us, the correspondence bias redoubles. We see unusual dispositions that exactly match the unusual behavior. We should ask what the Enemy might believe about their situation.
+## Open Thread
+By request of the community, an Open Thread for free-form comments, so long as they're still related to the basic project of this blog. You're free to ask, but the authors can't commit to posting on requested topics.
+## Two More Things to Unlearn from School
+Ben Casnocha: School teaches students that they "understand" when they can successfully answer questions. He says students learn the habit that eating consists of putting food into mouth, and so they can't test for chewing.
+## Belief in Belief
+Followup to: Making Beliefs Pay Rent (in Anticipated Experiences)
+## Bayesian Judo
+Aumann's Agreement Theorem says that no two rationalists can agree to disagree.
+## Professing and Cheering
+A pagan woman on a science panel said she believed the Earth was created by a primordial cow. She spoke with pride and satisfaction. She wasn't even trying to convince us that she took her own religion seriously.
+## Belief as Attire
+Belief as group-identification is belief as a way of belonging. People who've stopped anticipating-as-if their religion will be passionate. But it's not the same fire they had as a child.
+## Focus Your Uncertainty
+Pundit: No matter which of the three possibilities comes true, you'll be able to explain why the outcome perfectly fits your pet market theory.
+## The Proper Use of Doubt
+Jesuits practice deliberate doubt to encourage their novices to doubt. But does it matter if their reasons are flawed? Is this not still a worthy deed unto a rationalist?
+## The Virtue of Narrowness
+Rationalists should focus narrowly on unusual pebbles which possess some special quality. It is not enough to compare love to a flower. Hot jealous unconsummated love is not the same as the love of a couple married for decades. When you understand things in detail, you can see how they are not alike.
+## You Can Face Reality
+Eugene Gendlin: "What is true is already so" "Owning up to it doesn't make it worse," he says. "Anything untrue isn't there to be lived"
+## The Apocalypse Bet
+A poll has been launched on when the Singularity will occur. The poll is a raw poll, not a prediction market. It's not easy to sell a bet that pays off only if the prediction market ceases to exist.
+## I Defy the Data!
+Science has a mistaken idea that if an experiment contradicts the dominant theory, we should throw out the theory instead of the experiment. An experiment that makes traditionalists want to discard the data should be a high priority for replication.
+## Absence of Evidence Is Evidence of Absence
+Earl Warren argued that the lack of sabotage by Japanese-Americans was a sign that a Fifth Column exists. But in probability theory, absence of evidence is always evidence of absence.
+## Conservation of Expected Evidence
+Bayesian theory says that for every expectation of evidence, there is an equal and opposite expectation of counterevidence. For a true Bayesian, it is impossible to seek evidence that confirms a theory.
+## Update Yourself Incrementally
+For every expectation of evidence, there is an equal and opposite expectation of counterevidence. If the hypothesis is that the coin comes up heads 95% of the time, then one time in twenty you will see what looks like contrary evidence. This is okay, so long as you've got nineteen supporting observations for every contrary one.
+## Hindsight bias
+Fischhoff, B. 1982. For those condemned to study the past: Heuristics and biases in hindsight. In Kahneman et. al. 1982: 332–351.
+## Scientific Evidence, Legal Evidence, Rational Evidence
+Rationalists are licensed to believe in the historical existence of Alexander the Great. Historical knowledge is not scientific knowledge. Science is the publicly reproducible knowledge of humankind.
+## Guessing the Teacher's Password
+Students often think that verbal behavior has a truth-value, says Richard Feynman. Words do not have intrinsic definitions, he writes.
+## Science as Attire
+The X-Men comics use terms like "evolution", "mutation", and "genetic code", purely to place themselves in what they conceive to be the literary genre of science. If evolutionary theory could actually stretch to cover Storm, it would be able to explain anything.
+## Fake Causality
+Phlogiston was the 18 century's answer to the Elemental Fire of the Greek alchemists.
+## Semantic Stopsigns
+The transhuman technologies pose tough policy questions about nanotechnology, advanced biotech, genetech, Artificial Intelligence, et cetera. What kind of role, if any, should a government take in supervising a parent's choice of genes for their child? Could parents deliberately choose genes for schizophrenia? If enhancing a child's intelligence is expensive, should governments help ensure access?
+## Mysterious Answers to Mysterious Questions
+Vitalism was the theory that the mysterious difference between living matter and non-living matter was explained by an elan vital or vis vitalis. Elan vital infused living matter with energy and caused it to move as consciously directed.
+## The Futility of Emergence
+"Emergence" is commonly used as an explanation in its own right. It is popular because it is so wonderful to explain things. It has the same deep appeal as saying "magic"
+## Positive Bias: Look Into the Dark
+The 2-4-6 task is based on a classic experiment due to Peter Wason. Subjects who attempt the task usually try to generate positive examples, rather than negative examples. This goes against what experiment has shown to be human instinct.
+## My Wild and Reckless Youth
+Traditional Rationality is taught as an art, rather than a science. You need one whole hell of a lot of rationality before it can teach you anything new and interesting.
+## Making History Available
+Followup to: Failing to Learn from History and the logical fallacy of generalization from fictional evidence.
+## Stranger Than History
+In the future, the sky will be filled by billions of floating black spheres. Each sphere will be larger than all the zeppelins that have ever existed put together. If you offer a sphere money, it will lower a male prostitute out of the sky.
+## Explain/Worship/Ignore?
+When it rains, and you don't know why, you have several options. Each time you hit Explain, science grinds for a while, returns an explanation, and then another dialog box pops up. As good rationalists, we feel duty-bound to keep hitting Explain, but it seems like a road that has no end.
+## "Science" as Curiosity-Stopper
+Econblog: Why should your curiosity be diminished because someone else, not you, knows how the light bulb works? Econ Blog: It's not enough for you to know; other people must also be ignorant.
+## Absurdity Heuristic, Absurdity Bias
+The absurdity heuristic is the mirror image of the well-known representativeness heuristic. The less X resembles Y, or the more X violates typicality assumptions of Y, the less probable that X is the product, explanation, or outcome of Y.
+## Availability
+The availability heuristic is judging the frequency or probability of an event, by the ease with which examples of the event come to mind. In the ancestral environment, much of what you knew, you heard it directly from a fellow tribe-member who had seen it.
+## Why is the Future So Absurd?
+Hindsight bias is a major factor contributing to absurdity bias. We see changes away from absurd conditions such as everyone being a peasant farmer and women not having the vote, toward normal conditions like a majority middle class and equal rights. When people look at history, they see a series of normalizations. They learn the rule, "The future grows ever less absurd over time"
+## Anchoring and Adjustment
+Tversky and Kahneman (1974) recorded the estimates of subjects who saw the Wheel of Fortune showing various numbers. They found that subjects took the initial, uninformative number as their starting point or anchor.
+## Rationality and the English Language
+Rationalists should read George Orwell's Politics and the English Language for an artist's perspective on rationality.
+## Human Evil and Muddled Thinking
+George Orwell saw the descent of the civilized world into totalitarianism. Orwell knew that muddled language is muddled thinking.
+## Doublethink (Choosing to be Biased)
+An oblong slip of newspaper had appeared between O'Brien's fingers. For perhaps five seconds it was within the angle of Winston's vision. It was a photograph, and there was no question of its identity. Winston's heart sank. He had a feeling of deadly helplessness.
+## Why I'm Blooking
+A collection of blog posts that have been edited into a book. The first part of the plan has proceeded at a respectable pace so far.
+## Planning Fallacy
+Denver International Airport opened 16 months late, at a cost overrun of $2 billion. Sydney Opera House may be the most legendary construction overrun of all time.
+## Kahneman's Planning Anecdote
+Followup to: Planning Fallacy by Daniel Kahneman.
+## Conjunction Fallacy
+In a similar experiment, 92% of 94 undergraduates at the University of British Columbia gave an ordering with A > E > C. The conjunction rule of probability theory states that, for all X and Y, P(X&Y) <= P(Y)
+## Conjunction Controversy (Or, How They Nail It Down)
+Followup to: Conjunction Fallacy.
+## Burdensome Details
+Conjunction fallacy is when humans rate the probability P(A&B) higher than the probabilityP(B) It occurs because we "substitute judgment of representativeness for judgment of probability"
+## Einstein's Arrogance
+Einstein famously said he would feel sorry for the good Lord if his theory was wrong. But he may not have been quite so foolhardy as he sounded. To assign more than 50% probability to the correct candidate from a pool of 100,000,000 possible hypotheses, you need at least 27 bits of evidence.
+## Occam's Razor
+The more complex an explanation is, the more evidence you need just to find it in belief-space. "fitting" the facts by merely failing to prohibit them is insufficient.
+## 9/26 is Petrov Day
+September 26th is Petrov Day. Lieutenant Colonel Stanislav Yevgrafovich Petrov was the officer on duty when the warning system reported a US missile launch. Petrov decided that, all else being equal, he would prefer not to destroy the world.
+## How to Convince Me That 2 + 2 = 3
+Cihan Baran says he can't conceive of a situation that would make 2+2 = 4 false. He says he has always believed in 2 + 2 = 4 without need of entangled evidence.
+## The Bottom Line
+There are all manner of signs and portents indicating whether a box contains a diamond, says the philosopher. But the true import of a thing is its entanglement with other things, he says.
+## What Evidence Filtered Evidence?
+Bayesians must always condition on all known evidence, on pain of paradox. But then the clever arguer can make you believe anything he chooses.
+## Rationalization
+Traditional Rationality does not properly sensitize its users to the difference between forward flow and backward flow. You cannot obtain more truth for a fixed proposition by arguing it. To improve our beliefs, we must necessarily change our beliefs.
+## Recommended Rationalist Reading
+Bayesian rationality is the use of Bayes' methods in decision making. Can you recommend any good books on the subject?
+## We Change Our Minds Less Often Than We Think
+Dale Griffin: We change our minds less often than we think. Once your belief is fixed, no amount of argument will alter the truth-value. Once an idea gets into your head, it's probably going to stay there.
+## Avoiding Your Belief's Real Weak Points
+Jewish theology says God continually sustains the universe and chooses every event in it. In Orthodox Judaism you're allowed to notice inconsistencies and contradictions, but only for purposes of explaining them away.
+## The Meditation on Curiosity
+"The first virtue is curiosity," says philosopher. "A burning itch to know is higher than a solemn vow to pursue truth," says LeGuin.
+## A Priori
+Bayesians see the brain as an engine of accuracy, and if you violate the laws of rationality, the engine doesn't run. To a Bayesian, in this era of cognitive science and evolutionary biology, saying "a priori" doesn't explain why the brain-engine runs.
+## Priming and Contamination
+Priming is a form of cognitive priming that speeds up identifying letters as forming a word. Priming also reveals the massive parallelism of spreading activation. If seeing "water" activates the word "drink", it probably also activates "river", or "cup", or 'splash'
+## Do We Believe Everything We're Told?
+Daniel Gilbert: Do we believe everything we're told?
+## Cached Thoughts
+In modern civilization particularly, no one can think fast enough to think their own thoughts. No one can recapitulate the wisdom of a hunter-gatherer tribe in one lifetime.
+## The "Outside the Box" Box
+In Artificial Intelligence, everyone outside the field has a cached result for brilliant new revolutionary AI idea - neural networks, which work just like the human brain. New AI Idea: complete the pattern: "Logical AIs, despite all the big promises, have failed to provide real intelligence for decades - what we need are neural networks!"
+## Original Seeing
+Robert Pirsig: For every fact there is an infinity of hypotheses. The more you look the more you see. The Virtue of Narrowness.
+## How to Seem (and Be) Deep
+The author was asked if he was "deep" by people at a Silicon Valley discussion group about death. He says he came across as deep because he violated the standard pattern for "deep wisdom" in a way that made immediate sense.
+## Hold Off On Proposing Solutions
+Norman R. F. Maier: "Do not propose solutions until the problem has been discussed as thoroughly as possible without suggesting any" Maier devised the following "role playing" experiment to demonstrate his point.
+## "Can't Say No" Spending
+The net effect of Western aid to Africa is actively destructive. The chaotic flux of money and goods that destroys local industry.
+## Congratulations to Paris Hilton
+Paris Hilton has signed up for cryonics.
+## Pascal's Mugging: Tiny Probabilities of Vast Utilities
+Pascal's Wager: A compactly specified wager can grow in size much faster than it grows in complexity. An AI is not given its code like a human, it can override the AI's probabilities.
+## Illusion of Transparency: Why No One Understands You
+In hindsight bias, people who know the outcome of a situation believe the outcome should have been easy to predict in advance. We always know what we mean by our words, and so we expect others to know it too. It's hard to empathize with someone who must interpret blindly.
+## Self-Anchoring
+An AI, with fast read-write access to its own memory, might be able to create a distinct, simulated visual cortex to imagine what a human "sees" We humans only have one visual cortex, and if we want to imagine. what someone else is seeing, we've got to simulate it using our own visual cortex - put our own brains into the other mind's shoes.
+## Expecting Short Inferential Distances
+In an ancestral environment, you almost never have to explain your concepts. If you say something blatantly obvious and the other person doesn't see it, they're the idiot. If at any point you make a statement without obvious justification in arguments you've previously supported, the audience just thinks you're a cult victim.
+## No One Knows What Science Doesn't Know
+In the ancestral environment it was possible to know everything, and nearly everyone did. In hunter-gatherer bands of less than 200 people, with no written literature, all background knowledge was universal knowledge. If one person, in a world containing 200 people total, discovered how gravity worked, you could expect to hear about it.
+## Bay Area Bayesians Unite!
+Would you be interested in a Bay Area meetup of Overcoming Bias readers? Please vote in at least the closest-city poll.
+## Motivated Stopping and Motivated Continuation
+Frugalists tend to develop the most psychologically realistic models of any school of decision theory. When you're buying a house, you don't get exactly 10 houses to choose from, and you aren't led on a guided tour of all of them before you're allowed to decide anything. Evidence is often costly, and worse, slow, and there is certainly nothing virtuous about refusing to integrate the evidence you already have.
+## Torture vs. Dust Specks
+"What's the worst that can happen?" is probably a bad question to ask anyone with a creative imagination. Let's consider the problem on an individual level: it's not really the worst, but it would nonetheless be fairly bad, if you were horribly tortured for a number of years. This is one of the worse things that can realistically happen to one person in today's world. For our next ingredient, we need a large number, we can use 3^^^3, written in Knuth's up-arrow notation.
+## Fake Justification
+Many Christians who've stopped really believing now insist that they revere the Bible as a source of ethical advice. Even Harry Potter is superior to the Bible, both as a work of literary art and as moral philosophy. Most criticism carried out from a sense of duty is more of a token inspection.
+## An Alien God
+Evolution doesn't allow just any kind of purposefulness to leak into Nature. If evolutionary biology could explain a toaster oven, not just a tree, it would be worthless. There's a lot more to evolutionary theory than pointing at Nature and saying, "Now purpose is allowed"
+## The Wonder of Evolution
+Evolution resolves the infinite regression, not by being super-clever and super-efficient, but by being stupid and inefficient and working anyway.
+## Evolutions Are Stupid (But Work Anyway)
+In this post I describe some well-known inefficiencies and limitations of evolutions. I say "evolutions", plural, because fox evolution works at cross-purposes to rabbit evolution.
+## Natural Selection's Speed Limit and Complexity Bound
+Evolutionary complexity is limited by the degenerative pressure of copying errors. The rate at which a detrimental mutation is introduced by copying errors, will equal the rate atWhich it is eliminated by selection. The more genes are around, the more selection pressure required.
+## Beware of Stephen J. Gould
+Stephen J. Gould says evolution has a preferred tendency toward progress and the accumulation of complexity. But this is simply a statistical illusion, he says. Gould was a hero - a martyr - because evolutionary biologists don't like it when you challenge their romantic preconceptions, and they persecuted him.
+## The Tragedy of Group Selectionism
+Before 1966, it was not unusual to see serious biologists advocating evolutionary hypotheses that we would now regard as magical thinking.
+## Fake Selfishness
+A self-proclaimed selfish person told a friend that he should be selfish as well. The friend asked: Why do you want to persuade me to be selfish too? The self-described selfish person said that it was in his "rational self-interest" to play a productive role.
+## Fake Optimization Criteria
+The mirror challenge for decision theory is seeing which option a choice criterion really endorses. If your stated moral principles call for you to provide laptops to everyone, does that really endorse buying a $1 million gem-studded laptop for yourself?
+## Adaptation-Executers, not Fitness-Maximizers
+Taste buds of Homo sapiens directed their bearers to the scarcest, most critical food resources - sugar and fat. Today, the context of a taste bud's function has changed, but the taste buds themselves have not.
+## Evolutionary Psychology
+Individual organisms are best thought of as adaptation-executers, not fitness-maximizers. Cognitive causes are ontologically distinct from evolutionary causes. Evolutionary causes are made of ancestors. Evolution has made wings that flap, but do not understand flappiness.
+## Protein Reinforcement and DNA Consequentialism
+Protein computers and sensors can learn by looking, much faster than DNA can learn. DNA learned to build protein computers, brains, that could learn small modular facets of reality.
+## Thou Art Godshatter
+Before the 20th century, not a single human being had an explicit concept of "inclusive genetic fitness", the sole and absolute obsession of the blind idiot god. Our brains, those supreme reproductive organs, don't perform a check for reproductive efficacy before granting us sexual pleasure.
+## Terminal Values and Instrumental Values
+On a purely instinctive level, any human planner behaves as if they distinguish between means and ends. But when people begin explicitly talking about goal systems instead of just wanting things, mentioning "goals" instead of using them, they oft become confused. Humans are experts at planning, not experts on planning.
+## Evolving to Extinction
+Evolution doesn't operate on particular individuals; individuals keep whatever genes they're born with. Evolution operates on a reproducing population, a species, over time.
+## No Evolutions for Corporations or Nanodevices
+"So long as there are limited resources and multiple competing actors capable of passing on characteristics, you have selection pressure" -- Perry Metzger. "Things that replicate themselves" is not a sufficient condition for evolution. Price's Equation only operates to the extent that characteristics are heritable across generations.
+## The Simple Math of Everything
+There's a substantial advantage in knowing the drop-dead basic fundamental embarrassingly simple mathematics in as many different subjects as you can manage. Not, necessarily, the high-falutin' complicated damn math that appears in the latest journal articles. The Simple Math of Everything, written for people who are good at math, might not be all that weighty a volume. You should take the highest low-hanging fruit you can reach.
+## Conjuring An Evolution To Serve You
+Before 1995, the way animal breeding worked was that you would take the top individual performers in each generation and breed from them, or their parents. After only 6 generations of artificially imposed group selection, average days of survival increased from 160 to 348, and egg mass per bird increased from 5.3 to 13.3 kg.
+## Artificial Addition
+Peano Arithmetic as we know it has not been invented. We need a bottom-up approach to make arithmetic emerge.
+## Truly Part Of You
+Artificial Intelligence Meets Natural Stupidity is a book by Drew McDermott. It's about AI programs that represent notions like happiness using a semantic network.
+## Not for the Sake of Happiness (Alone)
+The value of scientific discovery requires both a genuine scientific discovery, and a person to take joy in that discovery. The moral intuition appears to require both objective and subjective component to grant full value. I would be disturbed if people retreated into a holodeck and fell in love with the wallpaper.
+## Leaky Generalizations
+Followup to: Terminal Values and Instrumental Values. Are apples good to eat, but some apples are rotten?
+## The Hidden Complexity of Wishes
+Wish For Immortality is an open-source computer program. It lets users wish for a specific outcome, and the outcome will happen. The program is not sentient, but has a tiny time machine.
+## Lost Purposes
+A recent study showed that 80% of teachers in K-5 reported spending less than one hour per week on science. The No Child Left Behind Act and similar legislation is the proximate cause, he says.
+## Purpose and Pragmatism
+Problems of rationality are not the same as the difference between pragmatic and epistemic rationality. In pragmatic rationality, keeping your eye on the ball means holding to your purpose, and not losing sight of utilities in leaky generalizations about expected utilities. If you want to know whether landmines will detonate, you will not get lost in fighting over the meaning of "sound"
+## The Affect Heuristic
+The affect heuristic is when subjective impressions of goodness/badness act as a heuristic - a source of fast, perceptual judgments. Pleasant and unpleasant feelings are central to human reasoning, and the affect Heuristic comes with lovely biases.
+## Evaluability (And Cheap Holiday Shopping)
+The Affect Heuristic can be exploited to be seen as generous without spending lots of money. If you buy someone a $45 scarf, you are more likely to be. seen as a generous than if you buy them a $55 coat.
+## Unbounded Scales, Huge Jury Awards, & Futurism
+Psychophysics is the field that links physical effects to sensory effects. If you dump acoustic energy into air - make noise - then how loud does that sound to a person? How much more acoustic energy do you have to pump into the air, before the noise sounds twice as loud to a human listener? It's not twice as much; more like eight times as much.
+## The Halo Effect
+Research has shown that we automatically assign to good-looking individuals such favorable traits as talent, kindness, honesty, and intelligence. We make these judgments without being aware that physical attractiveness plays a role in the process. The halo effect is the manifestation of the affect heuristic in social psychology.
+## Superhero Bias
+The halo effect is that perceptions of all positive traits are correlated. Profiles rated higher on scales of attractiveness, are also rated higher in other categories.
+## Mere Messiahs
+John Perry was a New York City police officer who also happened to be an Extropian and transhumanist. He died when the north tower fell. Perry knew he was risking his very existence, every week on the job.
+## Affective Death Spirals
+The halo effect is that any perceived positive characteristic (such as attractiveness or strength) increases perception of any other positive characteristic.
+## Resist the Happy Death Spiral
+The happy death spiral starts when you believe something is so wonderful that the halo effect leads you to find more and more nice things to say about it, making you see it as even more wonderful, and so on.
+## Fake Utility Functions
+Some people try to solve the how-to-program-a-superintelligence problem immediately. One of these is the Incredibly Simple Utility Function That Is All A Superintelligence Needs For Everything To Work Out Just Fine. But a utility function doesn't have to be simple.
+## Evaporative Cooling of Group Beliefs
+Cultists often come back stronger than before, with increased belief and fanaticism. The Jehovah's Witnesses placed Armageddon in 1975, based on Biblical calculations; 1975 has come and passed.
+## When None Dare Urge Restraint
+The overreaction to 9/11 will be ten times worse than the original event, says author. Anyone who attacks the Enemy is a patriot; and whoever dissects a patriotic claim is a traitor, he says.
+## The Robbers Cave Experiment
+The experiment was meant to investigate the causes - and possible remedies - of intergroup conflict. The 22 boys were divided into two groups of 11 campers. The two groups developed a negative stereotype of Them and a contrasting positive stereotype of Us.
+## Misc Meta
+Overcoming Bias now has a new Welcome page, as I'm sure you've noticed. A less prominent placement didn't increase pageviews per visit. The recent post "When None Dare Urge Restraint" rose to #1 on Reddit.
+## Every Cause Wants To Be A Cult
+Cade Metz at The Register alleged that a secret mailing list of Wikipedia's top administrators has become obsessed with banning all critics and possible critics.
+## Reversed Stupidity Is Not Intelligence
+If you knew someone who was wrong 99% of the time on yes-or-no questions, you could obtain 99.99% accuracy just by reversing their answers. Even if there were poorly hidden aliens, it would not be any less likely for flying saucer cults to arise.
+## Argument Screens Off Authority
+Black Belt Bayesian (aka "steven") tries to explain the asymmetry between good arguments and good authority.
+## Hug the Query
+In the art of rationality there is a discipline of closeness-to-the-issue. Try to observe evidence that is as near to the original question as possible.
+## Guardians of the Truth
+Reversed stupidity is not intelligence, says Tsuyoku Naritai. The Inquisition believed that there was such a thing as truth.
+## Guardians of the Gene Pool
+The idea of a superman is a common misconception. The idea that the Nordic stereotype is a real thing is a myth. The Nordic stereotype was a myth, not a real race.
+## Guardians of Ayn Rand
+Ayn Rand's novels glorify technology, capitalism, individual defiance of the System, limited government, private property, selfishness. Her ultimate fictional hero, John Galt, was a scientist who invented a new form of cheap renewable energy. If you disagree with Rand's works in any respect, you cannot be an Objectivist.
+## The Litany Against Gurus
+I am your hero!                Learn my arts,                Seek my way.                Envy me!                Aim at me.                Rival me!ipientTranscend me!                           I was never your city,                Just a stretch of your road.
+## Politics and Awful Art
+Rationality and the English Language are not the same thing, says the author.
+## Two Cult Koans
+A friend rebuked a novice rationalist, saying, "You have fallen into a cult!" The novice was deeply disturbed. The master Ougi said, "I will address all your concerns," said the master, "but first you must put on this silly hat"
+## False Laughter
+Political satire is a much more demanding art than just punching the Enemy in the nose. Laughter, like most kinds of obligatory laughter, has to come naturally.
+## Effortless Technique
+"I hate this idea of 'making an effort' as much as I did as a child," says Raymond Smullyan. The Hollywood version of rationality is a great strain, a great effort, a continuous battle to coerce your mind.
+## Zen and the Art of Rationality
+No one would mistake my writings for ancient Eastern wisdom. My goals are not the goals of Buddha or Lao Tse. Feeling Rational suggested that emotions should follow from beliefs but not beliefs follow from emotions.
+## The Amazing Virgin Pregnancy
+Mary tells Joseph that she is pregnant. Joseph asks her how it is possible, since she is still a virgin. Mary says God did it. Joseph says it is a miracle.
+## Asch's Conformity Experiment
+Solomon Asch highlighted a phenomenon now known as "conformity" In the classic experiment, a subject sees a puzzle like the one in the nearby diagram: Which of the lines A, B, and C is the same size as the line X? Three-quarters of the subjects in Asch's experiment gave a "conforming" answer at least once.
+## On Expressing Your Concerns
+Asch's Conformity Experiment shows the power of dissent to inspire real conformity. The most fearsome possibility raised by Asch's experiments is the specter of everyone agreeing with the group.
+## Lonely Dissent
+Lonely dissent is one of the most commonly, most ostentatiously faked characteristics around. Courage is braving the outright incomprehension of the people around you, when you do something that isn't Standard Rebellion #37.
+## To Lead, You Must Stand Up
+Yudkowsky: It's terribly embarrassing to stand up in front of a crowd. To lead the pack, you must be willing to leave the pack.
+## My Strange Beliefs
+Eliezer Yudkowsky is a Research Fellow at the Singularity Institute. He has written a number of books on transhumanism. He is the author of Overcoming Bias, a blog about rationality.
+## Posting on Politics
+Iowa and New Hampshire will exercise their Constitutional right to appoint the next President of the United States. I hope you will forgive me if I am, briefly, relevant.
+## The Two-Party Swindle
+The Robbers Cave Experiment had as its subject 22 twelve-year-old boys. The boys were as similar to each other as the experimenters could arrange. After the researchers instigated contests for prizes, rivalry reached a fever pitch.
+## The American System and Misleading Labels
+If you want to know what the Supreme Court really does, you should blur your eyes so that you can't see the words "Supreme" or "Court", or all the giant signs reading "judge", "Honorable", or "judicial branch of government". Then how can you tell what they do? Well, you could follow these nine people around for a few days and observe them at work. You'll see that they dress in funny outfits and go to a building where they hear some people arguing with each other. Then they'll talk it over for a while, and issue one or two short written documents, some of which tell other people what they are or aren't allowed to do.
+## Stop Voting For Nincompoops
+In a recent special election for California governor, the usual lock of the party structure broke down. As a result there were 135 candidates, one might have thought there would be an opportunity for genuine voter choice. However, the media immediately swung into action and decided that only a tiny fraction of these candidates would be allowed to get any publicity.
+## Rational vs. Scientific Ev-Psych
+The sexual division of labor in hunter-gatherer societies is a human universal. Men are better at throwing spears; women are better in remembering where things are. Men stand motionless and stare into the refrigerator.
+## A Failed Just-So Story
+ evolutionary "just-so stories" got a bad name because they are prima facie absurdities to serious students of the field.
+## But There's Still A Chance, Right?
+The author recalls a conversation he had with someone who doubted the existence of evolution. He said that the odds of that were 2^(750,000,000):1, but the person said there was still a chance. The conversation led him to think about the difference between "certain" and "uncertain" arguments.
+## The Fallacy of Gray
+Followup to: Tsuyoku Naritai, But There's Still A Chance Right?
+## Absolute Authority
+The author says that science is not as reliable as some people think. He argues that science has to be trusted, or it is worthless. The author says science is weighed down by doubt.
+## Infinite Certainty
+In Absolute Authority, I argued that you don't need infinite certainty. But might there not be some propositions in which we are entitled to infinite confidence? What about the proposition 2 + 2 = 4?
+## 0 And 1 Are Not Probabilities
+Infinity is not an integer, and doesn't even behave like an integer. If you mix up infinities with integers, you'll need all sorts of special new inconsistent-seeming behaviors.
+## Beautiful Math
+The joy of mathematics is inventing mathematical objects, and then noticing that the mathematical objects that you just created have all sorts of wonderful properties that you never intentionally built into them. Math is a game without a designer, and yet it is eminently playable.
+## Expecting Beauty
+Followup to: Beautiful Math. If you looked at the sequence {1, 4, 9, 16, 25, ...} and didn't recognize the square numbers, you might still essay an excellent-seeming prediction of future items in the sequence.
+## Is Reality Ugly?
+In pure math, you don't have to worry about a tiger leaping out of the bushes and eating Pascal's Triangle. The best guess is that reality is made of math; but we do not fully know which math, yet. Even a creature of pure math may not know the math.
+## Beautiful Probability
+Jaynes, E. T. (1990.) Probability Theory as Logic. MacKay, D. (2003.) Information Theory, Inference, and Learning Algorithms. Cambridge: Cambridge University Press.
+## Trust in Math
+Followup to: Expecting Beauty.
+## Rationality Quotes 1
+I'll be moving to Redwood City, CA in a week, so forgive me if I don't get a regular post out every day between now and then. As a substitute offering, some items from my (offline) quotesfile.
+## Rationality Quotes 2
+"We don't do science for the general public. We do it for each other" -- Noam Chomsky. "Most witches don't believe in gods. They know them too well" -- Terry Pratchett, Witches Abroad.
+## Rationality Quotes 3
+"Reality is that which, when you stop believing in it, doesn't go away" "I'd rather live with a good question than a bad answer" "If you do not wish a thing to be heard, do not say it." "I am an undrawn Grand Master of the Game, and you cannot lose well against me"
+## The Allais Paradox
+The Allais Paradox was one of the first conflicts between decision theory and human reasoning to be experimentally exposed. Most people prefer 1A > 1B, and most people prefer 2B > 2A. This introduces a form of inconsistency in the agent's planning.
+## Zut Allais!
+The Allais Paradox is a theory of heuristics and biases. It explains why people tend to put very high values on small shifts in probability away from 0.
+## Allais Malaise
+The Allais Paradox is the incoherent pattern 1A > 1B, 2B > 2A. If you need $24,000 for a lifesaving operation and an extra $3,000 won't help that much, then you choose 1A and 2B. If the largest utility you care about is the utility of feeling good about your decision, then any decision that feels good is the right one.
+## Against Discount Rates
+I've never been a fan of the notion that we should (normatively) have a discount rate in our pure preferences. The idea that it is fundamentally 5% more important that a poverty-stricken family have clean water in 2008, than that a similar family haveclean water in 2009, seems like pure discrimination to me. If your temporal discounting follows any curve other than the exponential, you'll have time-inconsistent goals that force you to wage war against your future selves.
+## Rationality Quotes 6
+"Gnostic: Knowledge that is so pure that it cannot be explained or proven wrong" "I haven't been wrong since 1961, when I thought I made a mistake" "Our language for describing emotions is very crude... that's what music is for"
+## Rationality Quotes 8
+"The old political syllogism "something must be done: this is something: therefore this will be done" appears to be at work here, in spades" -- Mark Walker. "A committee cannot be wrong - only divided" -- Yu Suzuki. "An open mind is a great place for other people to dump their garbage"
+## Rationality Quotes 9
+"A world ought to have a few genuine good guys, and not just a spectrum of people running from bad to worse" "Behind bars, a man never reforms. He will never forget. He never will get completely over the memory of the bars" "People are always amazed by how much "free time" I have"
+## The "Intuitions" Behind "Utilitarianism"
+Followup to: Circular Altruism. Response to: Knowing your argumentative limitations.
+## Trust in Bayes
+Trust in Math is not a matter of blind faith. When we see apparent evidence against algebra's trustworthiness, we should also take into account the massive evidence favoring algebra which we have previously encountered.
+## Something to Protect
+In the X saga it's explicitly stated that each of the good guys draw their power from having someone - one person - who they want to protect. But if that person is killed, or hurt in the wrong way, the protector loses their power. This isn't something that happens once per week per good guy, the way it would work in a Western comic. It's equivalent to being Killed Off For Real - taken off the game board.
+## Newcomb's Problem and Regret of Rationality
+Omega, a superintelligence from another galaxy, comes to Earth and sets about playing a strange little game. In this game, Omega selects a human being, sets down two boxes in front of them, and flies away. The dominant consensus in modern decision theory is that one should two-box, and Omega is just rewarding agents with irrational dispositions.
+## OB Meetup: Millbrae, Thu 21 Feb, 7pm
+The Overcoming Bias meetup has been scheduled for Thursday, February 21st, at 7pm. We're going to look at locating this in Millbrae within walking distance of the BART / Caltrain station. The particular restaurant I had in mind turns out to be booked for Thursdays.
+## The Parable of the Dagger
+Court jester presented the king with two boxes. On the first box was inscribed: "Either this box contains an angry frog, or the box with a true inscription contains gold" On the second box was: "This box contains the key" The king opened the wrong box, and was savaged by an angry frogs.
+## The Parable of Hemlock
+Syllogism is a way of thinking about things that are true "by definition" The statement "All humans are mortal" is a logically valid truth, absolutely unquestionable. Syllogisms are valid in all possible worlds, and observing their validity never tells us anything about the world we live in.
+## Words as Hidden Inferences
+Aristotle laid down rules under which no one could conclude Socrates was "human" until after he died. Aristotle and his students went on concluding that living people were humans and therefore mortal.
+## Extensions and Intensions
+"What is a thing? And what's a property? Soon the two are lost in a maze of words defined in other words" - Steven Harnad once described learning Chinese from a Chinese/Chinese dictionary.
+## Buy Now Or Forever Hold Your Peace
+The Intrade prediction market is giving Hillary a 53% chance and Obama a 47% chance of winning the Democratic presidential nomination. Hillary is down 7.5 percentage points in just the last day.
+## Similarity Clusters
+Platonists claimed that the best definition of human was a "featherless biped" Diogenes of Sinope is said to have promptly exhibited a plucked chicken and declared "Here is Plato's man"
+## Typicality and Asymmetrical Similarity
+Cognitive psychologists study "typicality effects" or "prototype effects" Typicality measures correlate well using different investigative methods. People are more likely to expect a disease to spread from robins to ducks than from ducks to robins.
+## The Cluster Structure of Thingspace
+Followup to: Typicality and Asymmetrical Similarity.
+## Disguised Queries
+The Cluster Structure of Things is a series of short stories by Bayes Bayes. The first story is about a factory worker who has to sort objects into two bins: a blegg bin and a rube bin.
+## Neural Categories
+In Disguised Queries, I talked about a classification task of "bleggs" and "rubes" The typical blegg is blue, egg-shaped, furred, flexible, opaque, glows in the dark, and contains vanadium. The typical rube is red, cube- shaped, smooth, hard, translucent, unglowing.
+## How An Algorithm Feels From Inside
+In Disguised Queries I introduced the blegg/rube classification task. The question "Is it a blegg?" stands in for the disguised query, "Will it glow in the dark?" If you find a blue egg-shaped object that contains palladium, the answer depends on what you ask.
+## Disputing Definitions
+In the classic example to be "If a tree falls in a forest, and no one hears it, does it make a sound?", the dispute often follows a course like this. Barry is arguing with Albert because of a genuinely different intuition about what constitutes a sound. Barry could have a motive for rejecting Albert's conclusion. Or Barry could be a skeptic who, upon hearing Albert's argument, reflexively scrutinized it for possible flaws.
+## Feel the Meaning
+Human brains can transfer thoughts to each other. But the process is not as simple as it looks.
+## The Argument from Common Usage
+Albert: "Who gave you the right to decide what is or isn't common usage?" Barry: "I can define a word any way I like so long as I use it consistently" Albert: "Barry knows what "sound" means by "sound". Barry knows what Albert knows by 'sound' Barry: 'Oh dear, dear, Albert, it is all really necessary? Albert knows what Barry knows by " sound". Albert: 'Barry, who gave you right to define the word 'sound'? Barry: I can define it that way, because it's in the dictionary'
+## Empty Labels
+Aristotelian idea of categories came from the notion of categories. Aristotle knew perfectly well that Socrates was human, even though he wasn't justified under his rules.
+## Classic Sichuan in Millbrae, Thu Feb 21, 7pm
+Dinner is scheduled for 7:00pm, on Thursday, February 21st, 2008. 15 people said they would "Definitely" attend and an additional 27 said "Maybe". Oh, and Robin Hanson will be there too.
+## Taboo Your Words
+In the game Taboo, the objective is for a player to have their partner guess a word written on a card, without using that word or five additional words listed on the card.
+## Fallacies of Compression
+The map of reality is written on a few pounds of neurons, folded up to fit inside your skull. Certain things that are distinct in reality will be compressed into the same point on your map.
+## Categorizing Has Consequences
+People with blood type A are earnest and creative, while people with blood kind B are wild and cheerful. People with type O are agreeable and sociable, and people with type AB are cool and controlled. Blood type plays the role in Japan that astrological signs play in the West.
+## Sneaking in Connotations
+Wiggin is a word that means "green-eyed black-haired person" The Oxford English Dictionary defines it as "a person with green eyes and black hair" The word has many connotations, such as criminal proclivities, culinary peculiarities, and unfortunate childhood activities.
+## Arguing "By Definition"
+Socrates has two arms, two feet, a nose and tongue, speaks fluent Greek, uses tools, and seems to have every major and minor property that characterizes Homo sapiens. He is vulnerable to hemlock just like all other Homo Sapiens in whom hemlocks have been clinically tested for lethality.
+## Where to Draw the Boundary?
+Just because there's a word "art" doesn't mean that it has a meaning, floating out there in the void, which you can discover by finding the right definition. The real challenge is figuring out which things are similar to each other.
+## Entropy, and Short Codes
+The key to creating a good code that transmits messages is to reserve words that you'll need to say as frequently as possible.
+## Mutual Information, and Density in Thingspace
+The entropy of X, as defined yesterday, is 3 bits; we'll need to ask 3 yes-or-no questions to find out X's exact state. The entropy of Y, as definitions yesterday, are 2 bits;we have to ask 2 yes- or-no Questions to find Y's exactState.
+## Superexponential Conceptspace, and Simple Words
+Machine learning can be used to learn concepts from data. The concept is a rule that includes or excludes examples. A machine learner might represent one concept that fits this data as follows: Sky: ?; AirTemp: Warm; Humidity: High; Wind: ?.
+## Leave a Line of Retreat
+Overcoming Bias is a book about how to overcome your biases. The author suggests a technique to help you visualize a scary idea. The idea is to visualize what the world would be like if there were no souls. The technique is similar to the one Sun Tzu uses to plan a retreat.
+## The Second Law of Thermodynamics, and Engines of Cognition
+The Second Law of Thermodynamics is a consequence of a theorem which can be proven in the standard model of physics. It says that no matter how large an assemblage of particles may be, it cannot produce energy from nothing.
+## Perpetual Motion Beliefs
+Followup to: The Second Law of Thermodynamics, and Engines of cognition.
+## Searching for Bayes-Structure
+Followup to: Perpetual Motion Beliefs. Spelljammer campaign set up.
+## Conditional Independence, and Naive Bayes
+Followup to: Searching for Bayes-Structure. I(X;Y) is the difference between the entropy of the joint probability distribution, H(X,Y), and the entropies of the marginal distributions, H (X) + H(Y)
+## Words as Mental Paintbrush Handles
+For decades, there was a serious debate about whether people really had mental images in their mind. Today we can actually neuroimage the little pictures in the visual cortex. So, yes, your brain really does represent a detailed image of what it sees or imagines.
+## Rationality Quotes 10
+"Faith is Hope given too much credit" "Intelligence is silence, truth being invisible" "Never fear. It is much easier for men to act than to refrain from acting"
+## Rationality Quotes 11
+"If we let ethical considerations get in the way of scientific hubris, then the feminists have won!" "To a mouse, cheese is cheese; that's why mousetraps work" "Revolutions begin not when the first barricades are erected, but when people realize that fundamental change is possible"
+## Variable Question Fallacies
+"Either the falling tree makes a sound, or it does not!" is not always a reliable heuristic. "This sentence is false" cannot be consistently viewed as true or false. Many of the words we use are really functions of implicit variables supplied by context.
+## 37 Ways That Words Can Be Wrong
+This is a list of 37 ways that using words incorrectly can have negative effects on your cognition. The list is meant to be a reminder that even when it's theoretically impossible to be wrong, you can be wrong.
+## Gary Gygax Annihilated at 69
+Gary Gygax, the inventor of Dungeons and Dragons, died at 69. The game's creator was an atheist.
+## Dissolving the Question
+The key idea of the heuristics and biases program is that the mistakes we make, often reveal far more about our underlying cognitive algorithms than our correct answers. Philosophy may lead you to reject the concept, but rejecting a concept is not the same as understanding the cognitive algorithms behind it.
+## Wrong Questions
+Followup to: Dissolving the Question, Mysterious Answers to Mysterious Questions.
+## Righting a Wrong Question
+When faced with an unanswerable question, there is a simple trick which can turn the question solvable. Asking "Why do I have free will?" sends you off thinking about tiny details of the laws of physics, so distant from the macroscopic level that you couldn't begin to see them with the naked eye. "Why does time move forward instead of backward?" is guaranteed answerable.
+## Mind Projection Fallacy
+In the dawn days of science fiction, alien invaders would occasionally kidnap a girl in a torn dress and carry her off for intended ravishing. T. Jaynes used the term Mind Projection Fallacy to denote the error of projecting your own mind's properties into the external world. From the inside it feels like sexiness is an inherent property of the woman.
+## Probability is in the Mind
+The term "Mind Projection Fallacy" was coined by the late great Bayesian Master, E. T. Jaynes. The argument runs thus: You have a coin. The coin is biased. You don't know which way it's biased or how much it'sbiased.
+## The Quotation is not the Referent
+In classical logic, the operational definition of identity is that whenever 'A=B' is a theorem, you can substitute 'A' for 'B' in any theorem where B appears. John believes Mary believes that the morning star is Lucifer, but the evening star is the god Venus.
+## Penguicon & Blook
+One million cumulative daily visits! Woot n' stuff. Also we're in the top 5,000 of all blogs on Technorati.
+## Qualitatively Confused
+The Quotation is not the Referent, it's the Quotation. The dichotomy between belief and disbelief, being binary, is confusingly similar to the dichotomies between truth and untruth. "Accuracy" sounds more quantitative, like an archer shooting an arrow.
+## Reductionism
+Reductionism is not so much a positive hypothesis, as the absence of belief. A computer modeling the aerodynamics of a 747 may not contain a single token that represents a quark.
+## Explaining vs. Explaining Away
+John Keats's Lamia (1819) surely deserves some kind of award for Most Famously Annoying Poetry.
+## Fake Reductionism
+John Keats drank "Confusion to the memory of Newton" because "he destroyed the poetry of the rainbow by reducing it to a prism" He'd been told that the rainbow had been reduced, but it had not actually been reduced in his model of the world.
+## Savanna Poets
+"Poets say science takes away from the beauty of the stars - mere globs of gas atoms. Nothing is "mere". I too can see the stars on a desert night, and feel them. But do I see less or more?" - Richard Feynman.
+## Joy in the Merely Real
+John Keats: "We know her woof, her texture; she is givenIn the dull catalogue of common things" Richard Feynman: "Nothing is inherently mysterious - nothing that actually exists"
+## Joy in Discovery
+Joy of being the first person to solve a major mystery is a tremendous high. It's probably the closest experience you can get to taking drugs, without taking drugs - though I wouldn't know. Why should a discovery be worth less, just because someone else already knows the answer?
+## Bind Yourself to Reality
+Followup to: Joy in the Merely Real.
+## If You Demand Magic, Magic Won't Help
+Terry Pratchett pondered the philosophy of fantasy stories. He said that if there were actually dragons in our world, they would be unexciting. He also said that most readers of these novels are not scientists. Pratchet: If you don't have the capacity to enjoy hang-gliding even though it is merely real, then as soon as dragons turn real, you're not going to be any more excited by dragons.
+## New York OB Meetup (ad-hoc) on Monday, Mar 24, @6pm
+Eliezer Yudkowsky is in New York and wants to meet up with readers. The event will take place at the giant Starbucks at 13 Astor Place #25.
+## The Beauty of Settled Science
+If you only care about scientific issues that are controversial, you will end up with a head stuffed full of garbage. "Newsworthy" science is often based on the thinnest of evidence and wrong half the time. A steady diet of science news is bad for you: You are what you eat.
+## To Spread Science, Keep It Secret
+Science is the great Purloined Letter of our times, left out in the open and ignored.
+## Initiation Ceremony
+Brennan's sandals clicked softly on the stone steps, snicking in sequence, like dominos very slowly falling. The torches that lit the narrow stairwell burned intensely and in the wrong color, flame like melting gold or shattered suns. The great curved gate had been wrought with cunning, humor, and close attention to indices of refraction: it warped light, bent it, folded it, and generally abused it.
+## Hand vs. Fingers
+Reductionism is the idea that we use multi-level models for computational reasons, but physical reality has only a single level. There can be emotional problems in accepting reductionism, if you think that things have to be fundamental to be fun.
+## Angry Atoms
+Fundamental physics is far removed from the levels we can see, like hands and fingers. No one has a brain large enough to visualize avogadros of quarks and recognize a hand-pattern in them. Anger can make people raise their fists and hit someone - or say snide things behind their backs.
+## Heat vs. Motion
+The equivalence of heat and motion may seem too obvious in hindsight. But there was a time when the kinetic theory of heat was a highly controversial scientific hypothesis, contrasting to belief in a caloric fluid.
+## Brain Breakthrough! It's Made of Neurons!
+ Nobel laureate Santiago Ramón y Cajal leads team of scientists who say brain is a ridiculously complicated network of tiny cells connected to each other by infinitesimal threads and branches. Team also includes Antonie van Leeuwenhoek and possibly Imhotep, promoted to Egyptian god of medicine.
+## Reductive Reference
+Reductionism is the idea that human minds use a multi-level map. Reality itself is single-level in the sense that it does not seem to contain atoms as separate, additional, causally efficacious entities over and above quarks.
+## Zombies! Zombies?
+Zombie Argument is that if the Zombie World is possible - not necessarily physically possible in our universe, just "possible in theory", or "imaginable" - then consciousness must be extra-physical.
+## Zombie Responses
+Richard Chappell writes that zombies are not even (genuinely) conceivable, let alone metaphysically possible. The gap between "I don't see a contradiction yet" and "this is logically possible" is so huge that you really should have two different words.
+## The Generalized Anti-Zombie Principle
+The Anti-Zombie Principle says that any change that does not affect you in any way is not a change in your consciousness. But if you try to defy the Principle, you will have problems with the meaning of your discourse.
+## GAZP vs. GLUT
+Generalized Anti-Zombie Principle (GAZP) says that a Giant Lookup Table (GLUT) is not a zombie in the classic sense. A GLUT is a distinct, additional, detectable, non-conscious system that animates a zombie and makes it talk about consciousness for different reasons.
+## Belief in the Implied Invisible
+The Anti-Zombie Argument is about the idea that anything you can't see doesn't exist. But if you can believe in the continued existence of photons that have become experimentally undetectable to you, why doesn't that imply a general license to believe in invisible things?
+## Quantum Explanations
+Quantum Physics Sequence: Introduction to quantum mechanics. The goal is to become completely at home in a quantum universe like a native.
+## Configurations and Amplitude
+Early scientists thought the silver mirror deflected the photon half the time. The half-silvered mirror obeys the same rule every time. A configuration isn't a proposition or a possibility.
+## Joint Configurations
+Quantum Physics Sequence: Configurations and Amplitude. The key to understanding configurations is realizing they are about more than one particle.
+## Distinct Configurations
+The identity of configurations is nailed down. Unlike possible worlds, configurations cannot be regrouped on a whim. The two configurations are not a question of how we most conveniently parse up the world.
+## Where Philosophy Meets Science
+Theories of quantum physics were developed before people knew they were made up of particles. Theories were based on the idea that a person's thoughts and feelings are related to the particles they are made up from.
+## The Quantum Arena
+Quantum physics uses complex amplitudes rather than probability distributions. Complex amplitudes use up 2 of our 3 dimensions. In quantum physics, the identity of particles cuts down configuration spaces.
+## Feynman Paths
+In quantum mechanics, amplitude that flows to identical configurations (particles of the same species in the same places) is added together, regardless of how the amplitude got there. Most of the possible paths add up and cancel out each other, and only a small group of neighboring paths add out. The second key to recovering the classical hallucination is the kind of behavior that we see in quantum physics.
+## No Individual Particles
+Quantum physics implies that a simple experimental test can show that two electrons are entirely indistinguishable - not just indistinguishable according to known measurements of mass and electrical charge. The illusion of individual particles arises from approximate factorizability of a multi-particle distribution.
+## Identity Isn't In Specific Atoms
+The Generalized Anti-Zombie Principle is based on the idea that there are no individual atoms. The principle is based in quantum physics, but is not a theory of reality.
+## Zombies: The Movie
+New York City has been overrun by zombies. The zombies behave exactly like humans, except that they're not conscious. The doctors have tried every placebo in the book to cure the disease, but to no avail. The scientists believe the disease must operate outside our universe.
+## Decoherence
+Quantum independence is a special case of amplitude distributions that approximately factorize. Evolution of a quantum system can produce entanglement where there was formerly independence.
+## The So-Called Heisenberg Uncertainty Principle
+This post is part of the Quantum Physics Sequence. In this installment, we look at the Heisenberg Necessary Determination Principle.
+## Which Basis Is More Fundamental?
+Quantum physics was once thought to be nothing but a convenience of calculation. Now physicists have figured out that the Tao prefers its physics to local physics.
+## Where Physics Meets Experience
+Ebborians reproduce by fission, an adult dividing into two new individuals. They share genetic material, but not through sexual recombination. They have no concept of parents, children, or sexuality.
+## Where Experience Confuses Physicists
+Po'mi of Ebbore predicts which world he will end up in when the entire planet splits. The Ebborians groan at the prospect of yet another identity war.
+## On Being Decoherent
+The evolution of a quantum system is a sum over histories, an integral over ways the system "could" behave. A quantum system that starts out highly factorizable, looking plaid and rectangular, can evolve into an entangled system as the formerly-independent parts interact among themselves.
+## The Conscious Sorites Paradox
+Theory of quantum physics is that there is a constant amount of energy in the universe. This energy can be broken down into smaller pieces, or it can be constant. The question is when this energy is broken down.
+## Decoherence is Pointless
+Decoherence is a continuous process, not a discrete one. It entangles you with a blob of amplitude density, and not a point mass. If a measuring instrument is sensitive enough to distinguish 10 positions with 10 separate displays on a little LCD screen, it will decohere the amplitude into at least 10 parts, almost entirely noninteracting.
+## Decoherent Essences
+This post is part of the Quantum Physics Sequence.
+## The Born Probabilities
+This post is part of the Quantum Physics Sequence series. Previously in series: Decoherence is Pointless. Followup to: Where Experience Confuses Physicists.
+## Entangled Photons
+This post is part of the Quantum Physics Sequence.Previously in series: Decoherence as Projection.
+## Bell's Theorem: No EPR "Reality"
+Quantum Physics Sequence: Entangled Photons. Part of the Quantum Physics Sequence.
+## Spooky Action at a Distance: The No-Communication Theorem
+Bell's Theorem: Entanglement requires quantum superposition. Bell's The theorem: If two entangled particles are not able to force your measurement to take any particular value, if they do not know what you measured on the end, the probabilistic expectation is always wrong.
+## Decoherence is Falsifiable and Testable
+This post is part of the Quantum Physics Sequence. The words "falsifiable" and "testable" are sometimes used interchangeably.
+## Quantum Non-Realism
+Einstein: "The correct answer is not available to you as a hypothesis, because it will not be invented for another thirty years" The best you can do is the strict "shut up and calculate" interpretation of quantum mechanics.
+## Collapse Postulates
+Collapse theories were devised in a time when it simply didn't occur to any physicists that more than one world could exist. People took for granted that measurements had single outcomes - it was an assumption so deep it was invisible, because it was what they saw happening. Collapse theories only postulate one surviving world.
+## Many Worlds, One Best Guess
+This post is part of the Quantum Physics Sequence. Followup to: Bell's Theorem, Spooky Action at a Distance, Quantum Non-Realism.
+## The Failures of Eld Science
+Students were either the most promising learners, or those whom the beisutsukai saw political advantage in molding. "Not one of them saw it; not Einstein, not Schrödinger, not even von Neumann."
+## The Dilemma: Science or Bayes?
+Many-Worlds doesn't make any new testable predictions - the amazing new phenomena it predicts are all hidden away. The whole thing smacks of fiction. Theories that explain quantum physics are very deep and very confusing.
+## Science Doesn't Trust Your Rationality
+Many-Worlds and libertarianism are similar in that they are both cases of bullet-swallowing, rather than bullet-dodging. Both accept that people are flawed, and try to harness their flaws to power the system.
+## When Science Can't Help
+Eliezer18: Science doesn't care where your theory comes from - it just says, "Go test it"
+## Science Isn't Strict Enough
+Eliezer18: The traditional ideals of Science too readily give out gold stars. Negative experimental results are also knowledge, so everyone who plays gets an award.
+## Do Scientists Already Know This Stuff?
+Eliezer18 says he didn't go through the traditional scientific apprenticeship. He says many modern scientists are making the same mistakes.
+## Changing the Definition of Science
+Howson believes it is time to ditch Popper's notion of capturing the scientific process using deductive logic. Instead, the focus should be on reflecting what scientists actually do: gathering the weight of evidence for rival theories and assessing their relative plausibility.
+## Conference on Global Catastrophic Risks
+The Oxford Future of Humanity Institute is holding a conference on global catastrophic risks on July 17-20, 2008, at Oxford (in the UK) I'll be there, as will Robin Hanson and Nick Bostrom.
+## Faster Than Science
+Einstein's Arrogance: Science Doesn't Trust Your Rationality. The social process of science leans on extra evidence.
+## Einstein's Speed
+Einstein invented General Relativity with almost no experimental data to go on, except the precession of Mercury's perihelion. The individual scientist has readily understandable, rational reasons to believe something not yet blessed by Science as public knowledge of humankind.
+## That Alien Message
+Brennan: One day, the stars in the night sky begin to change. Astronomical telescopes capture it all, moment by moment. Brennan: It becomes clear almost instantly that the pattern sent is highly redundant.
+## My Childhood Role Model
+For us humans, it seems that the scale of intelligence runs from "village idiot" at the bottom to "Einstein" at top. Yet the distance from Einstein to the village idiot is tiny, in the space of brain designs. Einstein did not literally have a brain the size of a planet. On the right side of the scale, you would find Deep Thought - Douglas Adams's original version.
+## Mach's Principle: Anti-Epiphenomenal Physics
+Mach's Principle is not experimentally proven, though it is widely considered to be credible. In a Newtonian universe, 3+1 spacetime can be broken down into 3 space dimensions and 1 time dimension.
+## A Broken Koan
+At Baycon today and tomorrow. Physics series resumes tomorrow.
+## Relative Configuration Space
+This post is part of the Quantum Physics Sequence. The ideas in today's post are taken seriously by serious physicists, but they are not experimentally proven and are not taught as standard physics.
+## Timeless Physics
+This post is part of the Quantum Physics Sequence. The central idea in today's post is taken seriously by serious physicists. It is not experimentally proven and is not taught as standard physics.
+## Timeless Beauty
+Timeless physics says that everything that exists is either perfectly global or perfectly local. The beauty of classical physics doesn't begin to compare to the beauty of timeless quantum physics.
+## Timeless Causality
+Julian Barbour believes that each configuration, each individual point in configuration space, corresponds individually to an experienced Now. We could throw out time, and keep the concept of causal computation.
+## Einstein's Superpowers
+John Baez's Crackpot Index is a measure of how many people compare themselves to Einstein. Baez: "The underlying problem is conflating social status and research potential"
+## Class Project
+The five students were told to produce the correct theory of quantum gravity in one month. They were told they would have to do as well as Albert Einstein.
+## A Premature Word on AI
+I've noticed that folks who actively work on Artificial General Intelligence, seem to have started out thinking the problem was much easier than it first appeared to me. Most of the people currently wandering around in the AGI Dungeon are those too blind to see the warning signs.
+## The Rhythm of Disagreement
+IEEE Spectrum's "Who's Who In The Singularity" actually mentions some of the real analysts like Nick Bostrom and myself. Paul Wallich's chart lists Daniel Dennett's position on the Singularity as: "I don’t deny the possibility a priori; I just think it is vanishingly unlikely in the foreseeable future" Steven Pinker, author of The Blank Slate, is quoted as saying: "When machine consciousness will occur, we'll never know"
+## Principles of Disagreement
+At the age of 15, being a Traditional Rationalist, I thought the obvious answer was, "Entirely disregard people's authority and pay attention to the arguments. Only arguments count." How naive. The principle gave me freedom to find a better way, which I eventually did.
+## Timeless Identity
+In No Individual Particles we saw that the intuitive conception of reality as little billiard balls bopping around, is entirely and absolutely wrong. In Identity Isn't In Specific Atoms, we took this counterintuitive truth of physical ontology, and proceeded to kick hell out of an intuitive concept of personal identity. In Timeless Physics, we see a real-world application with practical consequences, for you in today's world.
+## Living in Many Worlds
+Quantum mechanics predicts that people will split up into many different worlds. This means that each world has its own unique set of laws and laws of physics.
+## Thou Art Physics
+This post is part of the Quantum Physics Sequence and the Solution to "Free Will"
+## Timeless Control
+Timeless physics is a theory of the universe from outside Time. The future is not determined before you make your choice. The Block Universe is not something that hangs, motionless and static, lasting for a long time.
+## Bloggingheads: Yudkowsky and Horgan
+I appear today on Bloggingheads.tv, in "Science Saturday: Singularity Edition" I talked too much. This episode needed to be around two hours longer.
+## Against Devil's Advocacy
+Michael Ruse says he was once called a "creep" by Richard Dawkins. Ruse: "I discovered that my mind could, if asked, invent arguments for anything" He says he never confused the game with real life.
+## Eliezer's Post Dependencies; Book Notification; Graphic Designer Wanted
+I'm going to try and produce summaries of the quantum physics series today or tomorrow. I need to get at least one Powerpoint presentation of mine re-produced to professional standards of graphic design. This is likely to lead into other graphic design work on producing the ebooks.
+## The Quantum Physics Sequence
+This is an inclusive guide to the series of posts on quantum mechanics that began on April 9th, 2008. The series will take a strictly realist perspective - quantum equations describe something that is real and out there.
+## An Intuitive Explanation of Quantum Mechanics
+This series takes you as far into quantum mechanics as you can go with only algebra. Any further and you should get a real physics textbook - once you know what all the math means.
+## Quantum Physics Revealed As Non-Mysterious
+Quantum physics is one of the great mysteries of modern science. The series of posts indexed below will show you - not just tell you - what's really going on down there.
+## And the Winner is... Many-Worlds!
+Quantum mechanics doesn't deserve its fearsome reputation. It's human intuitions that are "strange" or "weird"; physics itself is perfectly normal. Quantum entanglement is the general quantum independence case.
+## Quantum Mechanics and Personal Identity
+Quantum physics is not mysterious, it's just different. The universe is made up of different stuff than little billiard balls. We can't generalize the Anti-Zombie principle to show that anything exerts only an infinitesimal influence on your brain.
+## Passing the Recursive Buck
+Followup to: Artificial Addition, The Ultimate Source, Gödel, Escher, Bach: An Eternal Golden Braid.
+## Grasping Slippery Things
+Brandon Reinhart answers questions about the meaning of the word "could" He explains how to use the word without using synonyms.
+## Ghosts in the Machine
+The Ultimate Source, Passing the Recursive Buck, is a book about how to make AI work better. The author of the book says that it is not possible to force an AI to do anything it doesn't want to do.
+## LA-602 vs. RHIC Review
+LA-602: Ignition of the Atmosphere with Nuclear Bombs is the first technical analysis ever conducted of an uncertain danger of a human-caused extinction catastrophe. Teller and Konopinski found that, contrary to their initial skepticism, the hydrogen bomb appeared possible.
+## Heading Toward Morality
+In November 2007, I wrote a series of posts on fake utility functions. The sequence was intended to show how the word "should" can be confusing. The final stop on the train is the introduction of quantum physics. This is where we break belief in an intuitive universe.
+## The Outside View's Domain
+Plato's Phaedo: "The state of sleep is opposed to the state of waking; and out of sleeping, waking is generated" "How can the Wright Flyer fly, when all previous human-made flying machines had failed?" "How indeed can anything at all happen for the first time?" "Perhaps sometimes things do happen, but this does not mean we can predict them"
+## Surface Analogies and Deep Causes
+The Law of Similarity is the idea that similar things are connected. It is the basis of the 'simulation over similarity' principle. But it is also the basis for the idea of inside and outside views. The principle is a problem in the design of Artificial Intelligence.
+## Optimization and the Singularity
+I see intelligence and natural selection as special cases of optimization. Processes that hit, in a large search space, very small targets defined by implicit preferences. Neither evolution nor humans have consistent utility functions, so viewing them as "optimization processes" is understood to be an approximation.
+## The Psychological Unity of Humankind
+In a sexually reproducing species, complex adaptations are necessarily universal. A single mutation can be possessed by some lucky members of a species, and not by others. By the time an adaptation gets to be really sophisticated with dozens of genes supporting its highly refined activity, every member of the species has it.
+## The Design Space of Minds-In-General
+Followup to: The Psychological Unity of Humankind.
+## No Universally Compelling Arguments
+The idea that not every possible mind might agree with us, even in principle, is terrifying. For every argument A, howsoever convincing it may seem to us, there exists at least one possible mind that doesn't buy it. The surprise and horror of this prospect (for some) has a great deal to do with the intuition of the ghost-in-the-machine.
+## 2-Place and 1-Place Words
+The Mind Projection Fallacy is an error in thinking about a two-place function as though it were a one-placefunction.
+## The Opposite Sex
+Some observations on sex and gender. A good deal of what we think of as "manly" or "womanly" is gender rather than sex. Understanding the opposite sex is hard.
+## What Would You Do Without Morality?
+"Nothing is real" is a claim that nothing is right or wrong. The question is, what would you do if you knew that?
+## The Moral Void
+Followup to: What Would You Do Without Morality?, Something to Protect.
+## Created Already In Motion
+Lewis Carroll wrote a short dialogue called What the Tortoise said to Achilles. The dialogue is based on Euclid's First Proposition. There is no argument so compelling that it will give dynamics to a static thing.
+## I'd take it
+Out-of-context quote of the day: Even $10 trillion isn't a huge amount of money.
+## The Bedrock of Fairness
+Followup to: The Moral Void.
+## 2 of 10, not 3 total
+There is no rule against commenting more than 3 times in a thread. One-line comments that quickly correct an error may be common-sensically excepted from this rule.
+## Moral Complexities
+Followup to: The Bedrock of Fairness.
+## Is Morality Preference?
+Followup to: Moral Complexities.
+## Is Morality Given?
+Continuation of: Is Morality Preference?
+## Will As Thou Wilt
+Arthur Schopenhauer (1788-1860) said: "A man can do as he will, but not will as he wills"
+## Where Recursive Justification Hits Bottom
+Followup to: No Universally Compelling Arguments, Passing the Recursive Buck, Wrong Questions.
+## The Fear of Common Knowledge
+Steven Pinker has an excellent chapter on this in The Stuff of Thought. The power of real deception - outright lies - is easy for even us nerds to understand.
+## My Kind of Reflection
+In "Where Recursive Justification Hits Bottom", I concluded that it's okay to use induction to reason about the probability that induction will work in the future. I also concluded that the simplest explanation for why Occam's Razor works is that the universe itself is fundamentally simple.
+## The Genetic Fallacy
+The author of a book on "the genetic fallacy" argues that the origin of evidence can be relevant to its evaluation. He argues that genetic reasoning is not always a fallacy - that the source of evidence is relevant to the evaluation.
+## Fundamental Doubts
+This is one of the most difficult techniques of rationality. Descartes, setting out to "doubt, insofar as possible, all things", ended up trying to prove the existence of God - which, if he wasn't a secret atheist, is pretty pathetic.
+## Rebelling Within Nature
+Eliezer Yudkowsky is an evolutionary psychologist. He says he didn't understand evolutionary psychology until he was a teenager. He believes that we can only fight nature from within it, not from outside.
+## Probability is Subjectively Objective
+Followup to: Probability is in the Mind and Reality doesn't go away.
+## Lawrence Watt-Evans's Fiction
+Lawrence Watt-Evans' work is unpredictable. His characters are realistic rationalists - they think the same things that you or I would, in their situations.
+## Posting May Slow
+Due to the Oxford conference on Global Catastrophic Risk, I may miss some posts.
+## Whither Moral Progress?
+Obert argues that we don't have to think of ourselves as the apex of moral progress to see that we are making progress. He asks: How did we go from not having a moral ideal to having one?
+## The Gift We Give To Tomorrow
+Followup to: Thou Art Godshatter, Joy in the Merely Real, Is Morality Given?, Rebelling Within Nature.
+## Could Anything Be Right?
+Eliezer1999 was convinced that he knew nothing about morality. He thought he could figure out what was right, perhaps, given enough reasoning time and enough facts. But he was massively mistaken about the nature of morality.
+## Existential Angst Factory
+Most existential angst comes from trying to solve the wrong problem, says philosopher. The opposite of love is indifference, and the opposite of happiness is boredom.
+## Touching the Old
+Transhumanism does scare me. I shouldn't wonder if it scares me more than it scares arch-luddites like Leon Kass. I know - and I doubt the thought ever occurred to Kass - that even if something scares you, you can still have the courage to confront it.
+## Should We Ban Physics?
+A policy was proposed to ban all physics experiments involving the production of novel physical situations. But the real cost of banning physics is not just losing that one experiment - it's losing physics. In Tegmark's Level IV Multiverse, there have undoubtedly been cases where intelligence arises in a universe with physics unlike this one.
+## Fake Norms, or "Truth" vs. Truth
+When you say the word "truth", people know that "truth" is a good thing, and that they're supposed to applaud. But when it comes to some particular truth, like whether God exists, or how likely their startup is to thrive, people will say: "I just want to believe"
+## When (Not) To Use Probabilities
+The laws of probability are laws, not suggestions, but often the true Law is too difficult for us humans to compute.
+## Can Counterfactuals Be True?
+Followup to: Probability is Subjectively Objective.
+## Math is Subjunctively Objective
+Followup to: Probability is Subjectively Objective, Can Counterfactuals Be True?
+## Does Your Morality Care What You Think?
+Followup to: Math is Subjunctively Objective, The Moral Void.
+## Changing Your Metaethics
+People get attached to their metaethics. They often insist that if their Metaethic is wrong, all morality necessarily falls apart. To change metaethical beliefs is nigh-impossible in the presence of an unanswered attachment.
+## Setting Up Metaethics
+Followup to: Is Morality Given?, Is Mor morality Preference?, Moral Complexities, Could Anything Be Right?, The Bedrock of Fairness, ...
+## The Meaning of Right
+The key is to understand how a certain cognitive algorithm feels from inside. Rightness is contagious backward in time. Duty-based or virtue-based ethics are only slightly less consequentialist than consequentialism.
+## Interpersonal Morality
+In "The Bedrock of Fairness" I offered a situation where three people discover a pie, and one of them insists that they want half. I would, nonetheless, say that the right thing to do, the fair thing todo, is to give Dennis one-fifth of the pie - the other four combining to hold him off.
+## Humans in Funny Suits
+The human form is the natural baseline of the universe, from which all other alien species are derived via a few modifications. For an alien species to evolve intelligence, it must have two legs with one knee each attached to an upright torso. Sexual selection will result in the creation of noses - you wouldn't want to mate with something without a face, would you?
+## A Genius for Destruction
+A question from a workshop after the Global Catastrophic Risks conference. The question was: "The problem is that it's often our smartest people leading us into the disasters"
+## The Comedy of Behaviorism
+Behaviorism was the doctrine that it was unscientific for a psychologist to ascribe emotions, beliefs, thoughts, to a human being. The origin of behaviorism, was in a backlash against substance dualism - the idea that mind is a separate substance.
+## No Logical Positivist I
+Eliezer accuses me of reinventing logical positivism. I would disagree, and exhibit logical positivist as another case of "mistaking the surface of rationality for its substance"
+## Anthropomorphic Optimism
+The Tragedy of Group Selectionism was a rather extreme error by a group of early (pre-1966) biologists. They believed that predators would voluntarily restrain their breeding to avoid overpopulating their habitat and exhausting the prey population.
+## Contaminated by Optimism
+Group selectionists were doomed when they let their aesthetic sense make a suggestion. When people have an idea from any source, they tend to search for support rather than contradiction - even in the absence of emotional commitment.
+## Morality as Fixed Computation
+Eliezer: If you build an AI, it will choose things very unlike what we would choose. The AI will judge desirability very differently from how we judge it. This core disharmony cannot be patched by ruling out a handful of specific failure modes.
+## Inseparably Right; or, Joy in the Merely Good
+There is no pure ghostly essence of goodness apart from things like truth, happiness and sentient life. No single value defines goodness, this can make it seem like all of them together couldn't define goodness. The notion of the perfectly abstract label is incoherent.
+## Sorting Pebbles Into Correct Heaps
+Pebble-heap-sorting was the very meaning of their lives, say the Pebblesorting People. Wars have been fought between countries that disagree on which heaps are correct.
+## Moral Error and Moral Disagreement
+Moral disagreement, moral error, and moral progress are the primary drivers behind my metaethics. For two people to agree on something, there must be something they are agreeing about, a referent held in common.
+## Abstracted Idealized Dynamics
+Morality is something that unfolds, through arguments, through discovery, through thinking. From a bounded set of intuitions and beliefs that animate our initial states, to a potentially much larger set of specific moral judgments we may have to make.
+## "Arbitrary"
+Followup to: Inseparably Right; or, Joy in the Merely Good, Sorting Pebbles Into Correct Heaps.
+## Is Fairness Arbitrary?
+In "The Bedrock of Fairness", Xannon, Yancy, and Zaire argue over how to split up a pie that they found in the woods. Yancy thinks that 1/3 each is fair; Zaire demands half; and Xannon tries to compromise.
+## The Bedrock of Morality: Arbitrary?
+Fairness has a meaning beyond "that which everyone can be convinced is 'fair' There is no level of fairness where you're obliged to concede everything to Dennis. Natural selection does not do what is good: it optimizes for inclusive genetic fitness.
+## Hot Air Doesn't Disagree
+Tim Tyler: "Nature turns out to be just full of disagreement" He argues that attributing moral disagreements to animals is anthropomorphism.
+## When Anthropomorphism Became Stupid
+Many cultures thought that trees, rocks, streams, and hills all had spirits. Charles Darwin's theory of natural selection is where anthropomorphism's descent into being obviously wrong.
+## Dumb Deplaning
+Most people, as soon as they have a chance to make for the exit, do so - even if they need to take down luggage first. At any given time after the initial rush to the aisles, usually a single person is taking down luggage, while the whole line behind them waits.
+## You Provably Can't Trust Yourself
+Löb's Theorem states that anything provable in Peano Arithmetic is true. But in PA+1 it is possible to prove true statements about the natural numbers that are not provable. This is because some nonstandard models of PA are ruled out in PA+.
+## Invisible Frameworks
+Roko has mentioned his "Universal Instrumental Values" several times in his comments. Roko's proposal has a number of problems, as some of the commenters on his blog point out.
+## Mirrors and Paintings
+Pebblesorter is an AI that would be programmed to sort pebbles into prime-numbered heaps. The AI would then wipe out all other AI and create a better world.
+## Unnatural Categories
+Rationalist: What is a poison? Hemlock is a "poison"; so is cyanide; so is viper venom. Carrots, water, and oxygen are "not poison". But what determines this classification?
+## Magical Categories
+AI is not an unpatchable problem, but there are deep ways to address it - but no bandaids beyond the scope of this post. There are more possible concepts than possible objects in the world.
+## Three Fallacies of Teleology
+Aristotle distinguished between four senses of the Greek word aition, which in English is translated as "cause" The efficient aition best translates as the English word "cause"; we would think of the artisan carving the statue. Aristotle did acknowledge that teeth also needed an efficient cause to develop.
+## Dreams of AI Design
+Artificial Intelligence is fundamentally about reducing the mental to the non-mental. Living inside a human mind doesn't teach you the art of reductionism. All you can do is imagine yourself being contemplative, to get an idea of what a contemplative agent does.
+## Harder Choices Matter Less
+If you can't decide between the hamburger and the hot dog, you're either close to indifferent between them, or in your current state of ignorance. The obvious choices, like Pepsi over Coke, will take very little time. Conversely, the choices that take the most time probably make the least difference.
+## Qualitative Strategies of Friendliness
+A superintelligence whose behaviors are reinforced by human smiles. The happier people are, the more they smile. Smiles reinforce the behavior of the AI.
+## Dreams of Friendliness
+AIs need goals in order to decide how to think, so they have to act as a powerful optimization process. The problem is that the AI has to hit a narrow target in the space of possibilities to make superintelligent answers come out. Qualitative reasoning about AIs often revolves around some nodes described by empathic inferences.
+## Brief Break
+I've been feeling burned on Overcoming Bias lately, meaning that I take too long to write my posts. So I'm taking at most a one-week break. I'll post small units of rationality quotes each day.
+## Rationality Quotes 12
+"So often when one level of delusion goes away, another one more subtle comes in its place" "Promoting less than maximally accurate beliefs is an act of sabotage. Don't do it to anyone unless you'd also slash their tires"
+## Rationality Quotes 13
+"You can only compromise your principles once. After then you don't have any" "If you want to do good, work on the technology, not on getting power" "I normally thought of "God!" as a disclaimer, or like the MPAA rating"
+## The True Prisoner's Dilemma
+The Prisoner's Dilemma is one of the great foundational issues in decision theory. A neurologically intact human being cannot pretend to be genuinely, truly selfish.
+## The Truly Iterated Prisoner's Dilemma
+The True Prisoner's Dilemma is a follow-up to yesterday's post. In this version, the dilemma is repeated exactly 100 times.
+## Rationality Quotes 14
+"Introducing a technology is not a neutral act--it is profoundly revolutionary" "If you present a new technology to the world you are effectively legislating a change in the way we all live"
+## Rationality Quotes 15
+"Accountability is about one person taking responsibility" "If two people are accountable for the same decision, no one is really accountable" "The best part about math is that, if you have the right answer, it really is because they're stupid"
+## Rationality Quotes 16
+"It is essentially an extremely simple game gone terribly, terribly wrong" "We don't have thoughts, we are thoughts. Thoughts are not responsible for the machinery that happens to think them" "I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs"
+## Dr. Vernor Vinge, author of original paper on the technological Singularity
+The Singularity Summit was founded in 2006 by long-term philanthropy executive Tyler Emerson, inventor Ray Kurzweil, and investor Peter Thiel. Its purpose is to bring together and build a visionary community to further dialogue and action.
+## Points of Departure
+Hollywood sci-fi often depicts AIs as "emotionless" This is a logical fallacy because it warps Occam's Razor. A mind that entirely lacks chunks of brainware to implement "hate" or "kindness", is simpler - in a computational complexity sense - than a mind that has "hate-suppressor" plus "kinds"
+## Rationality Quotes 17
+"We take almost all of the decisive steps in our lives as a result of slight inner adjustments of which we are barely conscious" "You can't read people any better than they can read themselves" "NORMAL is a setting on a washing-machine"
+## Psychic Powers
+Followup to: Excluding the Supernatural. Benja Fallenstein commented on my previous post.
+## Optimization
+Dawkins: "What do you mean by 'intelligence'?" He explains how to quantify the power of a mind or mindlike process.
+## My Best and Worst Mistake
+Eliezer2000: I didn't think the answers were going to come from Artificial Intelligence; I had mostly written it off as a sick, dead field. Eliezer 2000: My youthful disbelief in a mathematics of general intelligence was simultaneously one of my all-time worst mistakes, and one of our all- time best.
+## Raised in Technophilia
+The author grew up in a world where the lines of demarcation between the Good Guys and the Bad Guys were pretty clear. The presumption-of-guilt was that you were either trying to collect some cheap applause, or covertly trying to regulate the technology into oblivion.
+## A Prodigy of Refutation
+Eliezer1996 was a Traditional Rationalist. He argued that a superintelligence would form its own morality. He was in favor of humans, not artificial intelligence.
+## The Sheer Folly of Callow Youth
+Eliezer1997 argued inescapably that creating superintelligence was the right thing to do.
+## Say It Loud
+The writer is often accused of overconfidence because of his lack of knowledge of the laws of uncertainty. He says he would rather clearly describe his state of uncertainty and worry afterward about how that makes him look.
+## Ban the Bear
+The SEC has banned short selling of stocks. But this does not go far enough, says the author. Once you buy a stock, you have to hold it forever.
+## How Many LHC Failures Is Too Many?
+Large Hadron Collider damaged by a mechanical failure. Many commenters said, "Anthropic principle! If the LHC had worked, it would have produced a black hole or strangelet or vacuum failure, and we wouldn't be here!"
+## Horrible LHC Inconsistency
+Followup to: When (Not) To Use Probabilities, How Many LHC Failures Is Too Many?
+## Fighting a Rearguard Action Against the Truth
+Eliezer2000 was just beginning to investigate the question of how to inscribe a morality into an AI. His reasons for doing this don't matter at all, except insofar as they happen to historically demonstrate the importance of perfectionism.
+## My Naturalistic Awakening
+In 2002, Eliezer2001 wrote about the evolutionary psychology of human general intelligence. He saw a dichotomy between natural selection and the lookahead of intelligent foresight. That was the point at which he first looked back and said, "I've been a fool"
+## The Level Above Mine
+Tsuyoku Naritai is an author of the book The Proper Use of Humility. He has been compared to E.T. Jaynes by a friend. He says that Jaynes has a level of expertise, of sheer formidability, which he has not yet achieved. He also says that he hopes to become the master of Artificial Intelligence.
+## Above-Average AI Scientists
+"Living in the should-universe" is what I call "living in theShould-un universe" The universe where everything works the way it common-sensically ought to, as opposed to the actual is-Universe we live in. There's more than one way to live in theshould-un Universe, and outright delusional optimism is only the least subtle. To deliberately thrust your mortal brain onto the first stage of life is so far beyond "audacity" as to set the word on fire, an act which only can be excused by the knowledge that empty skies offer no higher authority.
+## The Magnitude of His Own Folly
+In 2002, I realized what Eliezer1997's AI proposals really would have done, insofar as they were coherent enough to talk about what they "really would have do" I knew I had to stop.
+## Awww, a Zebra
+"Alas for those who turn their eyes from zebras and dream of dragons! If we cannot learn to take joy in the merely real, our lives shall be empty indeed" -- Eliezer S. Yudkowsky.
+## Intrade and the Dow Drop
+Intrade says the probability of a bailout bill passing by Oct 31st is 85%. A bailout bill makes an expected difference of 2000 points on the Dow.
+## Trying to Try
+Yoda: SUCCEED is not a primitive action. You can't just decide to win by choosing hard enough. There is never a plan that works with probability 1.
+## Use the Try Harder, Luke
+Youtube clip shows George Lucas and Mark Hamill arguing over a scene in Star Wars IV-VI. Hamill: "This is the hero who's going to take down the Empire? Look, it was one thing when he was a whiny teenager at the beginning, but he's in Jedi training now" Lucas: "No. You give up. And then Yoda lectures you for a while, and you say, 'You want the impossible' Can you remember that?"
+## Rationality Quotes 18
+Take away consciousness and reality and there's not much left. "Waiting for the bus is a bad idea if you turn out to be the bus driver" "I am busy and content and loved. I hope you are the same"
+## Beyond the Reach of God
+The Magnitude of His Own Folly is a thought experiment designed to smash my own optimism. It deals with the idea that God does not grant all prayers. It's been a long time since I believed in God.
+## My Bayesian Enlightenment
+Eliezer2001 was born a Bayesian, but didn't realize it until he read a book about heuristics and biases. He was shocked to discover that Bayesianism is not a law of intelligence. He is now a self-confessed Bayesian.
+## Bay Area Meetup for Singularity Summit
+All aspiring rationalists are welcome. From the replies so far it's likely to be in San Jose. We need to pick a date ASAP.
+## Make an Extraordinary Effort
+Tsuyoku Naritai means "make an extraordinary effort" Isshoukenmei was originally the loyalty that a samurai offered in return for his position. The term evolved to mean "make a desperate effort": Try your hardest, your utmost.
+## Shut up and do the impossible!
+Followup to: Make An Extraordinary Effort.
+## AIs and Gatekeepers Unite!
+"Bah, everyone wants to be the gatekeeper. What we NEED are AIs."-- Schizoguy.
+## Crisis of Faith
+Many in this world retain beliefs whose flaws a ten-year-old could point out. Self-honesty is at its most fragile when we're not sure which path is the righteous one. By the time you know it is an error, it is already defeated.
+## The Ritual
+Followup to: The Failures of Eld Science, Crisis of Faith.
+## Rationality Quotes 19
+"I don't know that I ever wanted greatness, on its own. It seems rather like wanting to be an engineer, rather than wanting to design something" "Money makes the world go round. Love just barely keeps it from blowing up"
+## Why Does Power Corrupt?
+Evolutionary psychology suggests that human beings have evolved to exploit power and status when they obtain it. The circuitry that will respond to power by finding it pleasurable, is already wired into our young revolutionary's brain. The purpose that the revolutionary should obtain power and abuse it, is not a plan anywhere in his brain.
+## Ends Don't Justify Means (Among Humans)
+Followup to: Why Does Power Corrupt? by Justin Corwin.
+## Entangled Truths, Contagious Lies
+"If any one of you will concentrate upon one single fact, or small object, such as a pebble or the seed of a plant or other creature, you will begin to perceive its truth" -- First Lensman. "Only God can tell a truly plausible lie" -- Gray Lensman
+## Traditional Capitalist Values
+Sarkozy: A fair amount of the enmity in the world stems from people refusing to contemplate the real values of the opposition as the opposition sees it. Sarkozy: Real value systems are phrased to generate warm fuzzies in their users, not to be easily mocked.
+## Dark Side Epistemology
+Followup to: Entangled Truths, Contagious Lies.
+## Protected From Myself
+Lying is an art form, not an easy art form. Lie because it's more convenient than trying to explain the truth. Lie to grab the tempting benefits, hanging just within reach.
+## Ethical Inhibitions
+Ethical inhibition seems to be implemented in a distinct style from hunger or lust. The emotion associated with ethical caution would seem to be a drive that - successfully or unsuccessfully - tries to override the temptation.
+## Ethical Injunctions
+An AI that wants to turn the universe into tiny reward-system counters has a motive to hide from us. The AI would keep this rule even through the self-modifying AI's revisions of its own code.
+## Prices or Bindings?
+The author says he would prefer a world in which the serial killer talks to the priest. He says the trick would be establishing something of equivalent strength.
+## Ethics Notes
+Every major democratic political leader lies abundantly to obtain office. Are the lies expected, and in that sense, less than true of someone who trusts them?
+## Which Parts Are "Me"?
+Everything I am, is surely my brain; but I don't accept everything my brain does, as "me" The point at which you start thinking that not everything that goes on your brain is to be identified with "you", is something of a Rubicon, I fear.
+## San Jose Meetup, Sat 10/25 @ 7:30pm
+It's on Saturday 7.30pm at Il Fornaio, 302 S Market St (in the Sainte Claire Hotel), San Jose. The reservation is currently for 21 but can be changed if needed. Please RSVP if you haven't already.
+## Expected Creative Surprises
+If I could predict exactly where my opponent would move on each turn, I would automatically be at least as good a chess player as my opponent. But predicting an exact move is not possible, but neither is it true that I have no information about my opponent's moves. Even if I'm playing against former world champion Garry Kasparov, there are certain things I can predict about his next move.
+## Belief in Intelligence
+Theories of intelligence can be tested by a vast set of chess positions. The degree to which you think Kasparov is a "better player" is reflected in the amount of probability mass you concentrate into the "Kasparov wins" class of outcomes.
+## Aiming at the Target
+In chess, there's a simple function that classifies wins for black, wins for white, and drawn games. If I know which side Kasparov is playing, I know the class of chess positions he is aiming for. I can describe motivations using a preference ordering.
+## Measuring Optimization Power
+Bayesian view of intelligence is based on the idea of optimization power. It says that there are strong evidence for processes that produce highly optimized events.
+## Efficient Cross-Domain Optimization
+Deep Blue, like the bee and the beaver, never ventured outside the narrow domain that it itself was optimized over.
+## Economic Definition of Intelligence?
+"Intelligence is the ability to find an adequate solution in what appears a priori to be an immense space" is one of the most common definitions of the word. But it is not the same as "the ability to get things done" or "to do things better than others"
+## Intelligence in Economics
+Followup to: Economic Definition of Intelligence? by Eliezer and Robin. Robin challenged me to show why a generalized concept of "intelligence" is any use in economics. Robin: 'Eliezer wants a quantitative concept that is "not parochial"
+## Mundane Magic
+The author lists some of the most powerful abilities in the world. The list includes Vibratory Telepathy, Psychometric Tracery and the Ultimate Power.
+## Complexity and Intelligence
+"Complexity" is a dangerous word. It can be used to explain all sorts of things. But it also has a strict mathematical meaning. The Kolmogorov complexity of a pattern is the size of the program code of the shortest Turing machine that produces the pattern.
+## Today's Inspirational Tale
+A vote for a losing candidate is not "thrown away"; it sends a message to mainstream candidates that you vote, but they have to work harder to appeal to your interest group to get your vote. Readers in non-swing states especially should consider what message they're sending with their vote.
+## Ask OB: Leaving the Fold
+"I've finally begun to wonder whether I believe things just because I was raised with them," writes "Jo" "Is there anyone who's been in this position - really, really invested in a faith and then walked away?" asks another.
+## Lawful Uncertainty
+In an experiment, subjects were asked to predict the outcome of an event that had a random component but yet had base-rate predictability. The strategy that will yield the highest proportion of success is to predict more common event.
+## Worse Than Random
+In recent posts, I've been arguing that randomness hath no power, that there is no beauty in entropy, nor yet strength from noise. But it is possible in theory, since you can have things that are anti-optimized.
+## The Weighted Majority Algorithm
+The conventional view in machine learning is that randomized algorithms sometimes perform better than unrandomized counterparts. But there is a mathematical proof that the randomized version performs better. By showing how subtle the gotcha can be, I hope to convince you that even if you run across a case where the randomized algorithm is widely believed to perform better, you should nonetheless trust that there's a gotcha to be found.
+## Bay Area Meetup: 11/17 8PM Menlo Park
+Robin Gane-McCalla plans to organize regular OB meetups in the Bay Area. The next one is 8PM, November 17th, 2008 (Monday night) at TechShop.
+## Whither OB?
+Overcoming Bias is going to cut back on posting. The site could shift to a more community-based format. The Oxford Future of Humanity Institute and the Singularity Institute have volunteered to provide funding.
+## Failure By Analogy
+In the Middle Ages, 'reasoning by analogy' was rampant. This kind of analogic reasoning is not binding on Reality.
+## Failure By Affective Analogy
+Failure by affective analogy is when you don't just say, "This lemon glazing is yellow, gold isyellow, QED." But rather say: "And now we shall add delicious lemon glazed to the formula for the Philosopher's Stone the root of all wisdom" This can lead to a lot of good feelings being generated about the New Idea, even if it's thirty years old. Enough nice words may even manage to start an affective death spiral.
+## The First World Takeover
+In the Age of Boredom, stars formed, but didn't pass on their characteristics to other stars. It was the Era of Accidents, before the dawn of optimization. The first replicators were yet to come, and the universe's first cycle was a single strand of RNA.
+## Whence Your Abstractions?
+Eliezer: Abstraction is a partitioning of possibility - a boundary around possible things, events, patterns. Analogy and causal modeling are two particular ways to reason via abstractions. There are many other ways.
+## The Complete Idiot's Guide to Ad Hominem
+Argumentum ad hominem is the fallacy of attacking an argument without addressing the argument itself.
+## Engelbart: Insufficiently Recursive
+Douglas Engelbart was a computer pioneer. He had a vision of using computers to systematically augment human intelligence. Engelbart committed the Classic Mistake of AI: underestimating how much cognitive work gets done by hidden algorithms.
+## Total Nano Domination
+Computer revolution had cascades and insights aplenty. But no individual, no localized group, nor even country, managed to get a sustained advantage in computing power. Will the development of nanotechnology go the same way as computers - a smooth, steady developmental curve spread across many countries?
+## Singletons Rule OK
+Eliezer and Robin are both aware of Aumann's Agreement Theorem and its implications. Robin is very strongly against "winner-take-all" scenarios. Eliezer is trying to work out why.
+## Disappointment in the Future
+Ray Kurzweil's predictions for the years 2000-2009 are not looking good. Most people will still be using portable computers. Virtual reality environments are still on an early stage.
+## Hard Takeoff
+Human evolution seems to have been a series of exponential modes with diminishing doubling times. Recursive self-improvement - an AI rewriting its own cognitive algorithms - identifies the object level of the AI with a force.
+## Permitted Possibilities, & Locality
+Theory of self-modifying AI is open to interpretation, but not all of it is allowed, says Robin Hanson. He says it's possible for AI to go down a path of self improvement that leads to superintelligence.
+## Underconstrained Abstractions
+Saith Robin: It is easy, way too easy, to generate new mechanisms, accounts, theories, and abstractions. To see if such things are useful, we need to vet them, and that is easiest "nearby", where we know a lot. When we want to deal with or understand things "far", whereWe know little, we have little choice other than to rely on mechanisms, theories and concepts that have worked well near.
+## Sustained Strong Recursion
+Recursion is the process of transforming a linear process into an exponential one. It can be used to create a strong feedback loop between earnings and spending.
+## Is That Your True Rejection?
+Yudkowsky: Some people reject transhumanist ideas because they don't have PhDs. He says that if he had a PhD, people would not treat this as a decisive factor indicating that they ought to believe everything he says. He believes that the point at which the average person will actually start to grant credence overriding their initial impression is somewhere around the Nobel Laureate level.
+## Artificial Mysterious Intelligence
+AIfolk: We need to find some way to build AI without understanding how it works. He says that many parties and factions in AI, adherent to more than one ideology, have been trying to buildAI without understanding intelligence. AIfolk says that even if you don't understand exactly how intelligence works, such a belief is not necessarily false.
+## Disjunctions, Antipredictions, Etc.
+Debiasing expert Robyn Dawes explains how to visualize more than one possible future. She says the trick is to visualize several specific possibilities instead of just one. She also suggests ways to make predictions that aren't maxed out.
+## Bay Area Meetup Wed 12/10 @8pm
+Overcoming Bias meetup is Wednesday at 8pm at Techshop in Menlo park. Robin Gane-McCalla will present some of his ideas on defining intelligence.
+## The Mechanics of Disagreement
+Two ideal Bayesians cannot have common knowledge of disagreement; this is a theorem. If two rationalist-wannabes have commonknowledge of a disagreement between them, what could be going wrong?
+## What I Think, If Not Why
+A well-designed mind should be much more efficient than a human, capable of doing more with less sensory data and fewer computing operations. The good guys do not write an AI which values a bag of things that the programmers think are good ideas.
+## You Only Live Twice
+"There's a big difference between mostly dead and all dead," says The Princess Bride. At the point where the current legal and medical system gives up on a patient, they aren't really dead. If you want to securely erase a hard drive, it's not as easy as writing it over with zeroes.
+## BHTV: de Grey and Yudkowsky
+BHTV wanted someone to interview Aubrey de Grey of the Methuselah Foundation about basic research in antiagathics. It made the interview somewhat difficult, since Aubrey and I already agree about most things. The interview is mostly Aubrey talking, as it should be.
+## For The People Who Are Still Alive
+Max Tegmark observed that we have three independent reasons to believe we live in a Big World. A universe which is large relative to the space of possibilities. The most popular cosmological theories also call for an "inflationary" scenario in which many different universes would be eternally budding off. And finally there are the alternative decoherent branches of the grand quantum distribution.
+## Not Taking Over the World
+An artificial intelligence that self-improves at an extremely rapid rate is not an end in itself. The only excuse for not helping is if you shouldn't, which is harder to establish than a "good" or "evil" AI.
+## Visualizing Eutopia
+Followup to: Not Taking Over the World.
+## Prolegomena to a Theory of Fun
+Fun Theory is the theory that humans are terrible judges of what will make them happy in the real world. The theory is based on the idea that people don't know what makes them happy. Fun Theory is a construct of which we prefer to construct.
+## High Challenge
+In the Future, machines will do all the work. But then won't people be bored? If you buy a modern computer game, you'll find that it contains tasks that are - there's no kind word for this - effortful. Since you play the game to get gold and experience points, making the game easier will let you get more gold per unit time.
+## Complex Novelty
+This is part of the Fun Theory Sequence, a list of ways that human-level uploaded civilizations Fail At Fun. The series also explains what's wrong with the Culture and how to fix it.
+## Sensual Experience
+Computer games are not as sensual as running in the jungle. Computer programs are not nearly as complex as biological tigers. Our brains are more adapted to interfacing with jungles.
+## Living By Your Own Strength
+The author has always been suspicious of borrowed strength. Borrowing someone else's knowledge doesn't give you the same power level required to discover that knowledge for yourself. The power that we wield is far out of proportion to the power we could generate for ourselves.
+## Rationality Quotes 20
+"If you have two choices, choose the harder" -- Mark Cuban. "Simple stupidity is never enough" -- Ciel. "There's no such thing as a human who doesn't commit sin" -- Kurt von Hammerstein.
+## Imaginary Positions
+The Singularity is not a religion, but a religious meme. It seems like a detail that would fit the story, but there are no direct observations to support it. It's a mark of embarassment to give others too much credit that way. The worst-case scenario is that well-intentioned AI researchers make a nice AI but don't do enough math.
+## Harmful Options
+Barry Schwartz's The Paradox of Choice talks about how offering people more choices can make them less happy. The more available actions you have, the more powerful you become - that's how it should work. Bounded rationalists can easily do worse with strictly more options, because they burn computing operations to evaluate them.
+## Devil's Offers
+This post is part of the Fun Theory Sequence. Previous posts: Harmful Options and The Golden Age.
+## Nonperson Predicates
+If you create an AI and tell it to model the world around it, it may form models of people that are people themselves. Simulation through simplified-yet-still-detailed pointwise similarity.
+## Nonsentient Optimizers
+Followup to: Nonperson Predicates, Possibility and Could-ness. This post was accidentally published half-finished.
+## Nonsentient Bloggers
+Today's post, Nonsentient Optimizers, was accidentally published yesterday. It has now been completed; please look at it again.
+## Can't Unbirth a Child
+Nonsentient Optimizers: Why not create a sentient AI?
+## Amputation of Destiny
+Iain Banks's Culture could be called the apogee of hedonistic low-grade transhumanism. Its people are beautiful and fair, as pretty as they choose to be. Their bodies have been reengineered for swift adaptation to different gravities. Their brains contains glands that can emit various euphoric drugs on command. They live, in perfect health, for generally around four hundred years before choosing to die. Their society is around eleven thousand years old, and held together by the Minds.
+## Dunbar's Function
+Robin Dunbar calculated the correlation between the (logs of the) relative volume of the neocortex and observed group size in primates. Dunbar came up with a group size of 148. Hutterite farming communities, for example, had a rule that they must split at 150.
+## A New Day
+Sometime in the next week - January 1st if you have that available, or maybe January 3rd or 4th if the weekend is more convenient - I suggest you hold a New Day, where you don't do anything old. Don't read any book you've read before, don't visit any website you've visited before. If you go on a walk, walk along a new path even if you're in a different part of the city.
+## Free to Optimize
+Stare decisis is the legal principle which binds courts to follow precedent. The purpose of law is not to make the world perfect. The law is there to provide a predictable environment.
+## The Uses of Fun (Theory)
+Fun Theory is the fully general reply to theodicy. It lets you see that there are a lot of properties necessary for a mind to lead a worthwhile existence. Fun Theory lets you look at our present world, and see that it is not optimized even for considerations like personal responsibility.
+## Growing Up is Hard
+Williams Syndrome is caused by deletion of a certain region on chromosome 7. People with WS are hypersocial, ultra-gregarious, but their verbal abilities are spared or even exaggerated. The increased relative size of our frontal cortex is of overwhelming importance in understanding the evolutionary development of humanity.
+## Changing Emotions
+The difficulty and danger of fiddling with emotions is oft-underestimated, says Greg Bear. Even if you're omnipotent so far as raw ability goes, it's not like people have a binary attribute reading "M" or "F" that can be flipped as a primitive action. Even at this very shallow level, we're dealing with drastic remappings of at least some segments of the sensorimotor and cerebellum.
+## Rationality Quotes 21
+"The most dangerous thing in the world is finding someone you agree with" "We just have to admit that real AI is one of the lowest research priorities, ever"
+## Emotional Involvement
+In a video game, the events have no long-term consequences. A life of disconnected episodes and unimportant consequences is a life of weak passions. A windowless office filled with highly repetitive non-novel challenges isn't any more conducive to emotional involvement.
+## Rationality Quotes 22
+"Two roads diverged in the woods. I took the one less traveled, and had to eat bugs until Park rangers rescued me" "Lying to yourself about specific actions is easier than re-defining the bounds of your imagined identity"
+## Serious Stories
+Every Utopia ever constructed - in philosophy, fiction, or religion - has been, to one degree or another, a place where you wouldn't actually want to live. George Orwell said much the same thing in "Why Socialists Don't Believe In Fun"
+## Rationality Quotes 23
+"This year I resolve to lose weight... to be nicer to dogs... and to sprout wings"
+## Continuous Improvement
+Fun Theory: Is it adaptive for an organism to be satisfied with what it has? Is there enough fun in the universe, sufficiently accessible, for a transhuman to jog off the hedonic treadmill?
+## Eutopia is Scary
+"The future is not as bad as we think it is," says author. "It's a lot better than we thought," he says.
+## Building Weirdtopia
+Jim Rosenberg challenges readers to write down a Utopia, Dystopia, and Weirdtopia. The goal is to find a world that's at least arguably-better than Utopia.
+## She has joined the Conspiracy
+I have no idea whether I had anything to do with this.
+## Justified Expectation of Pleasant Surprises
+The importance of vague hope is underemphasized among rationalists. We should be more careful about our beliefs about the future than about the past. The idea that hope is important to a happy life is hardly original.
+## Seduced by Imagination
+This post is part of the Fun Theory Sequence. Previous post: Justified Expectation of Pleasant Surprises.
+## Getting Nearer
+Roland: I was always telling myself to "Visualize!" or "Reason by simulation, not by analogy!" But when I learned about the Outside View versus the Inside View, I realized I would spend the rest of my mortal existence typing thought processes as "Near" or "Far" I'm worried that, for whatever reason, writing SF is hard, and writing fiction is harder.
+## In Praise of Boredom
+Boredom is a subtle-splendored thing. You wouldn't want to get bored with breathing, for example. Some things are allowed to be highly repetitive without being boring.
+## Sympathetic Minds
+"Mirror neurons" are neurons that are active both when performing an action and observing the same action. Such neurons have been directly recorded in primates, and consistent neuroimaging evidence has been found for humans.
+## Interpersonal Entanglement
+Reedspacer's Lower Bound is a one-line remark on an IRC channel. The main flaw is that catpersons of the appropriate gender are banned. This rules out a surprising number of proposals.
+## Failed Utopia #4-2
+Stephen Grass and the girl were held captive in a stone cell. Grass was forced to look away as she forced him to look at her. Grass said: "Something so attractive about that momentary smile"
+## Investing for the Long Slump
+The global economy is still in the Long Slump in 2039. Most market participants seem to think this scenario is extremely implausible. Is there a simple bet, executable using an ordinary brokerage account, that pays off 100 to 1?
+## Higher Purpose
+Having a Purpose In Life consistently shows up as something that increases happiness, as measured by reported subjective well-being. To deliberately sacrifice more, so that you can appear more virtuous to yourself, is also not a purpose outside yourself. The presence or absence of higher purpose does have hedonic effects on human beings.
+## Rationality Quotes 24
+"A wizard may have subtle ways of telling the truth, and may keep the truth to himself, but if he says a thing the thing is as he says. For that is his mastery."-- Ursula K. Leguin, A Wizard of Earthsea. "Neurons firing is something even a slug can do, and has as much to do with thinking as walls and doors have to do"
+## The Fun Theory Sequence
+Fun Theory is the field of knowledge that deals in questions such as "How much fun is there in the universe?", "Will we ever run out of fun?", "Are we having fun yet?" and "Could we be having more fun?" Fun Theory is also the fully general reply to religious theodicy (attempts to justify why God permits evil)
+## BHTV: Yudkowsky / Wilkinson
+Eliezer Yudkowsky and Will Wilkinson talk about rationality. Wilkinson introduces (invents?) the phrase "good cognitive citizenship"
+## OB Status Update
+Overcoming Bias plans to transition to a new format, including a new and more open sister site, tentatively entitled "Less Wrong" The new site will be built out of Reddit's source code, but you won't be limited to posting links. All posts will appear on Less Wrong and will be voted up or down by the readers.
+## Rationality Quotes 25
+"The people running the show aren't evil geniuses. They are just as stupid as the rest of us" -- Vaksel. "Truth is not always popular, but it is always right" -- Ben Casnocha.
+## Three Worlds Collide (0/8)
+"Three Worlds Collide" is a story I wrote to illustrate some points on naturalistic metaethics. It grew, as such things do, into a small novella. Be warned that the story, as it wrote itself, ended up containing some profanity and PG-13 content.
+## The Baby-Eating Aliens (1/8)
+"Three Worlds Collide" is a story of an impossible outcome, where AI never worked, molecular nanotechnology never worked and biotechnology only sort-of worked. Yet somehow humanity not only survived, but discovered a way to travel Faster-Than-Light.
+## War and/or Peace (2/8)
+The Lord Pilot slammed his fists on the table. "We're all going to die!" The Master of Fandom said, "Even with surprise on their side... no. They can't actually wipe out the human species" The Lady Sensory slapped him.
+## The Super Happy People (3/8)
+The Lady Sensory said, in an unsteady voice, "My lords, a third ship has jumped into this system. Not Babyeater, not human." The holo showed a triangle marked with three glowing dots. Then the holo zoomed in, to show the most grotesque spaceship that Akon had ever seen.
+## Interlude with the Confessor (4/8)
+Akon sat on the edge of the four-poster bed in the center of the room, resting his head in his hands. The Ship's Confessor was standing stately nearby, in full robes and hood of silver. Akon asked: "Did we go wrong?"
+## Three Worlds Decide (5/8)
+Akon strode into the main Conference Room; and though he walked like a physically exhausted man, at least his face was determined. Behind him, the shadowy Confessor followed. The Command Conference looked up at him, and exchanged glances.
+## Normal Ending: Last Tears (6/8)
+The streets of ancient Earth were crowded to overbursting with people looking up at the sky, faces crowded up against windows. Fear showed on most of the faces in the crowd, rage in some; a very few were smiling.
+## True Ending: Sacrificial Fire (7/8)
+The Impossible Possible World was observed to return from its much-heralded expedition, appearing on the starline that had shown the unprecedented anomaly. Instantly, without a clock tick's delay, the Impossible broadcast a market order. It ignored the specification of the hidden contract signed with EMERGENCY OVER and IMMINENT HARM and CONFESSOR. Within minutes, the star line between Huygens and Earth will become impassable.
+## Epilogue: Atonement (8/8)
+The Lady Sensory switched off the display of the Huygens market. The price of a certain contract spiked to 100%. They were all rich in completely worthless assets for the next nine minutes.
+## The Thing That I Protect
+Followup to: Something to Protect, Value is Fragile. "Something to Protect" discursed on the idea of wielding rationality in the service of something other than "rationality"
+## ...And Say No More Of It
+The concept of "Friendly AI" can be poisonous in certain ways. The first rule of acting with ulterior motives is that it must be done with a pure heart, faithfully serving the overt purpose.
+## Informers and Persuaders
+Academics write papers from only two possible motives: to persuade others or to show off their theory. In this world, both groups use technical language, because they both care about being precise.
+## Cynicism in Ev-Psych (and Econ?)
+Evolutionary psychologists are cynical about the real reason why humans are universally wired with a chunk of complex purposeful functional circuitry X (e.g. an emotion) In economics, it is more conventional and less alarming to suppose that people are doing explicitly and complicated things in the pursuit of explicit goals.
+## The Evolutionary-Cognitive Boundary
+I tend to draw a very sharp line between anything that happens inside a brain and anything that happened in evolutionary history. Anything originally computed in a brain can be expected to be recomputed, on the fly, in response to changing circumstances.
+## Rationality Quotes 26
+"The universe is complex, but it's usefully complex" "A superhero is someone who tries to save everyone in spite of that" "I will abandon one hundred and save the lives of nine hundred"
+## An African Folktale
+This is a folktale of the Hausa, a farming culture of around 30 million people. The different cultural assumptions revealed to be... attention-catching. This isn't a story told to make the listener feel superior.
+## Good Idealistic Books are Rare
+Saith Robin: "Cynicism and Idealism are a classic yin and yang, a contradictory pair where we all seem to need both sides" Robin: Most books on education, medicine, government, charity, religion, technology, travel, relationships, etc. mostly present relatively idealistic views.
+## Wise Pretensions v.0
+Eliezer's essay on pretending to be a Wise is similar to the one he wrote in 2006. The difference is that in 2006 the essay was written in a completely different style.
+## Rationality Quotes 27
+"Believing this statement will make you happier" "Make changes based on your strongest opportunities, not your most convenient ones" "The mind is a cruel, lying, unreliable bastard that can't be trusted with even an ounce of responsibility"
+## Fairness vs. Goodness
+The Prisoner's Dilemma is a game of two players trying to maximize their social utility. The game is asymmetrical, with dual cooperation awarding JW twice as many points as AA.
+## On Not Having an Advance Abyssal Plan
+Government agencies failing to stare into the abyss in advance gives us a double problem: moral hazard as counterparties and investors try to guess what the government will realistically do; and fear and uncertainty in the market when the worst does happen. If you don't publish a plan for catastrophe, then the market just tries to guess.
+## Formative Youth
+Eliezer: Most of us were children at one point or another during our lives. Many of us still believe or choose certain things that we happened to believe as children. Eliezer believes most of us underestimate the degree to which our youths were formative. He says he's skeptical that others are governed by their childhood causal histories so much less than himself.
+## Tell Your Rationalist Origin Story
+Overcoming Bias meetup asked participants to share their rationalist origin story. Many of the commenters had a single experience in common - encountering Overcoming B bias.
+## The Most Frequently Useful Thing
+What's the most frequently useful thing you've learned on OB? Please give a concrete example if you can. This isn't limited to archetypally "mundane" activities.
+## The Most Frequently Useful Thing
+What's the most frequently useful thing you've learned on OB? What influences your behavior, factors in more than one decision? Please give a concrete example if you can. This isn't limited to archetypally "mundane" activities.
+## That You'd Tell All Your Friends
+What's the number one thing that would make you buy a book on rationality for a friend?
+## Unteachable Excellence
+There are things you can learn from the superstars. But you can't expect to eat their whole soul, and the last mile of their extraordinariness will be the hardest for them to teach. You will, at best, learn a few useful tricks.
+## No, Really, I've Deceived Myself
+When this woman was in high school, she thought she was an atheist. But she decided, at that time, that she should act as if she believed in God. And then - she told me earnestly - over time, she came to really believe inGod. She hasn't actually deceived herself into believing that God exists or that the Jewish religion is true. Not even close.
+## Belief in Self-Deception
+A woman defended the assertion that she believed in God, while seeming not to actually believe in God at all. She said, "I believe that people are nicer than they really are"
+## Posting now enabled
+Posting is now enabled with a minimum karma required of 20. That is, you must have gotten at least 20 upvotes on your comments in order to publish a post.
+## Slow down a little... maybe?
+I think that three posts a day over and above Yudkowsky and/or Hanson posts might be enough. If it turns out that people just have more to say than this, sustainably in the long term, then we can raise the posting speed.
+## Moore's Paradox
+Moore's Paradox is the standard term for saying "It's raining outside but I don't believe that it is" Jimrandomh suggests that many people cannot distinguish between levels of indirection.
+## Wanted: Python open source volunteers
+Less Wrong is a fork of the open Reddit codebase, written in Python. The codebase does not have unit tests or a whole lot of documentation. See the issues tracker for more information.
+## Raising the Sanity Waterline
+Religion is a sign, a symptom, of larger problems that don't go away just because someone loses their religion. If you make the slightest move at fighting religion directly, you will invalidate the experiment.
+## A Sense That More Is Possible
+Rationality is a discipline of cognition, the studying of which would make its students visibly more competent, more formidable. The root of this problem is that we haven't really gotten together and systematized our skills.
+## Schools Proliferating Without Evidence
+Psychology and Psychotherapy Built on Myth is a new book by Robyn Dawes. Dawes: Psychotherapists' claims to superior intuitive insight, understanding, and skill as therapists are simply invalid.
+## 3 Levels of Rationality Verification
+The art of rationality goes beyond the skills that are standard, and beyond what any single practitioner singly knows. I suggest stratifying verification methods into 3 levels of usefulness: reputational, experimental, organizational.
+## What Do We Mean By "Rationality"?
+LW's definition of "rationality" is based on "Epistemic rationality" and "Instrumental rationality" We're not interested in probability theory because it is the holy word handed down from Laplace.
+## Comments for "Rationality"
+I wrote an Admin page for "What do we mean by 'Rationality'?" since this has risen to the status of a FAQ. Comments can go here.
+## Rationalist Fiction
+Rationalist fiction can be found in adult or child fiction, SF&F or literary. Sherlock Holmes is not operating by any sort of reproducible method.
+## You're Calling *Who* A Cult Leader?
+Hacker News founder Paul Graham is accused of being a cult leader. Graham says the accusations are based on the behavior of nonconformists in packs. He says the most cultish behavior on Hacker News is people trying to disagree with him.
+## BHTV: Yudkowsky & Adam Frank on "religious experience"
+BHTV episode with myself and Adam Frank, author of "The Constant Fire", on whether or not religious experience is compatible with the scientific experience.
+## On Things that are Awesome
+The enjoyment of things that are awesome is an important part of life. It is both enjoyable, and strengthening, to know of many things that're awesome. For most people their truly awesome work is usually only a slice of their total output, from some particular years.
+## The Sacred Mundane
+Adam Frank's The Constant Fire is about the experience of the sacred. Frank holds that this experience is something that science holds deeply in common with religion.
+## Your Price for Joining
+In the Ultimatum Game, the first player chooses how to split $10 between themselves and the second player. In the Prisoner's Dilemma, the second players decide whether to accept the split or reject it - in the latter case, both parties get nothing.
+## Can Humanism Match Religion's Output?
+The Catholic Church is too large to be held together by individual negotiations. The Old Testament doesn't talk about Hell, but the New Testament does. Even the fear of hell is not a perfect motivator. Human beings are not given so much slack on evolution's leash.
+## Church vs. Taskforce
+Religion does fill certain holes in people's minds, some of which are even worth filling. If you eliminate religion, you have to be aware of what gaps are left behind. Some modern offices may also fill the same role as a church.
+## Rationality: Common Interest of Many Causes
+Less Wrong is a site that promotes rationality and the spread of rationality. The site also promotes atheism and anti-Prohibitionists.
+## Helpless Individuals
+Science traditionally gets funded by governments, corporations, and large foundations. People are, in fact, prosocial; they give money to, say, puppy pounds.
+## Money: The Unit of Caring
+Many people are motivated to deny that money is the only way to get things done. Money is not pieces of paper, it is the common currency of caring about something, writes Steve Omohundro.
+## Purchase Fuzzies and Utilons Separately
+An economics professor ponders the ethics of doing a selfless good deed. He wonders if he could have better employed the same sixty seconds in a more specialized way to bring greater benefit to others.
+## Wrong Tomorrow
+Wrong Tomorrow by Maciej CegĹ‚owski is a very simple site for listing pundit predictions and tracking them. It doesn't come with prices and active betting... but a simple registry of this kind can scale much faster than a market.
+## Selecting Rationalist Groups
+The Art of Rationality is almost entirely individual in nature. It focuses on confronting impossibly tricky questions.
+## Rationality is Systematized Winning
+"Rationalists should win" seems to convey something other than what I meant by it, says author. "Rationality is the Way of winning"? If you have a better suggestion, post it in the comments below.
+## Newcomb's Problem standard positions
+Marion Ledwig's dissertation summarizes much of the existing thinking that's gone into Newcomb's Problem.
+## Extenuating Circumstances
+A lot of people who were successful in life got there by driving straight through problems that couldn't be helped. Too much of life consists of holding ourselves to a high enough standard.
+## Of Lies and Black Swan Blowups
+Judge Marcus Einfeld, age 70, is going to jail for at least two years over a series of perjuries and lies that started with a £36, 6mph-over speeding ticket. Einfeld is a former president of Australia's Human Rights and Equal Opportunities Commission.
+## Zero-based karma coming through
+Tricycle will push through a zero-based karma system (no self-voting possible) sometime this evening. At present this will only cover future posts/comments.
+## Mandatory Secret Identities
+Jeffreyssai: No student of rationality should study with the purpose of becoming a rationality instructor in turn. He proposes that rationality instructors must have secret identities.
+## Beware of Other-Optimizing
+Aspiring rationalists vastly overestimate their ability to optimize other people's lives. Some people see a lot of obviously wrong poor advice. And then they finally discover the right way - the way that works.
+## That Crisis thing seems pretty useful
+Crisis of Faith is a technique that seems like it ought to be useful in the real world. It's a highly advanced, difficult, multi- component Crisis of Faith aka Reacting To The Damn Evidence aka Actually Changing Your Mind.
+## The Unfinished Mystery of the Shangri-La Diet
+The Shangri-La Diet is a theory that your body's metabolism has a set point. When your weight is below the set point, you feel hungry; when it's above, you're full. The theory is very beautiful and elegant, but the actual procedure is painfully simple.
+## Akrasia and Shangri-La
+The Shangri-La Diet is not just an excuse: people really are different and what works for one person sometimes doesn't work for another. People make up all sorts of fantastic stories to explain why their tricks worked for them.
+## Twelve Virtues booklet printing?
+The Twelve Virtues of Rationality is a collection of short stories and short essays. The author has been giving away free copies of the book at science fiction conventions. He has been using a staple-and-fold method to print out the pamphlets. This method is very cheap, probably something like ten cents a copy for ink and paper.
+## Bystander Apathy
+Cialdini, R. and Darley, J. (1969.) Bystander "Apathy", American Scientist, 57: 244-268.
+## Collective Apathy and the Internet
+Bystander apathy may be a symptom of our hunter-gatherer coordination mechanisms being defeated by modern conditions. People seem to have a hard time reacting constructively to problems encountered over the Internet. How can we counteract the bystander effect, restore motivation, and work with native group-coordination instincts, over the internet?
+## My Way
+Rationalists can be different from one gender to another. The concept of "normal" is tilted more toward male than female.
+## Rationality Quotes - April 2009
+A monthly thread for posting any interesting rationality-related quotes. No more than 5 quotes per person per monthly thread, please.
+## Great Books of Failure
+Books about epic screwups have constituted some of my more enlightening reading. Do you have any such books to recommend? Please break up multiple recommendations into multiple comments.
+## Proposal: Use the Wiki for Concepts
+Wiki should consist mainly of short concept introductions plus links to longer posts. Original writing goes in a post on Less Wrong, which may get voted up and down, or commented on.
+## This Didn't Have To Happen
+My girlfriend/SO's grandfather died last night, running on a treadmill when his heart gave out. He wasn't signed up for cryonics, of course.
+## Practical Advice Backed By Deep Theories
+LW is a blog about the psychology of weight loss and fitness. The aim of the blog is to help people understand the science behind their own decisions.
+## Less Meta
+My recent sequence on the craft and the community is highly forward-looking. Having expended this much effort already, it seems worthwhile to try and leverage others' future efforts. I think that discussion here is going a bit too meta, too much about the community.
+## The Craft and the Community
+This sequence ran from March to April of 2009 and dealt with the topic of building rationalist communities that could systematically improve on the art, craft, and science of human rationality.
+## The End (of Sequences)
+Overcoming Bias / Less Wrong is a project devoted to the art and science and craft of human rationality. The calculus of choosing among altruistic efforts is, in some ways, a calculus of who can take your place. I am more easily replaced here, than elsewhere.
+## Final Words
+The five students sat at the top of Mount Mirror, sometimes called Mount Monastery, and more often simply left unnamed. From the top you could see all the lands below and seas beyond.
+## Special Status Needs Special Support
+Adam Frank said that the Book of Job is sacred because it is a work of poetry. I think he is trying to justify a special status for the book.
+## Wiki.lesswrong.com Is Live
+http://wiki.lesswrong.com/ is now live, for all our Wiki needs. Knock yourself out on linking there from comments or blog posts. See here for proposed wiki usage guidelines.
+## Willpower Hax #487: Execute by Default
+This is a trick that I use for getting out of bed in the morning - quite literally. I count down from 10 and get out ofbed after the "1" It works because instead of deciding to get out. of bed, I just have to decide to implement the plan. Once the plan is in motion, the final action no longer requires an effortful decision.
+## "Open-Mindedness" - the video
+An interesting little Flash-like video on "openmindedness" by someone named QualiaSoup.
+## "What Is Wrong With Our Thoughts"
+David Stove's "What Is Wrong With Our Thoughts" is a critique of philosophy that I can only call epic. Stove lists 39 different classic crazinesses applied to the number three. "There is an integer between two and four, but it is not three," he writes.
+## This Failing Earth
+"I wonder if there are failed Earths and successful Earths, in the great macroscopic superposition popularly known as "many worlds" "I think of this as the "failed Earth" hypothesis.
+## Anime Explains the Epimenides Paradox
+The Epimenides Paradox or Liar Paradox is "This sentence is false" Type hierarchies are supposed to resolve the Epimenide paradox. No meta-language can contain its own truth predicate.
+## Do Fandoms Need Awfulness?
+Stephen Bond, "Objects of Fandom": For something to attract fans, it must have an aspect of truly monumental badness.
+## With whom shall I diavlog?
+Bloggingheads.tv has some street cred with mid-rank celebrities and academics. With that in mind, how would you fill in this blank?
+## Honesty: Beyond Internal Truth
+Rationalists must be honest - must speak aloud their probability estimates. But there are times when my tongue emits a lie. What I write is true to the best of my knowledge, because I can look it over and check.
+## ESR's comments on some EY:OB/LW posts
+Eric S. Raymond's comments on some of my Overcoming Bias posts. Raymond: "I think your exhortations here are nearly useless"
+## Nonparametric Ethics
+Robin Hanson suggests that the unreliability of our moral reasoning should lead us to seek simple moral principles.
+## Atheism = Untheism + Antitheism
+Atheism is really made up of two distinct components, which one might call "untheism" and "antitheism" A pure "un theist" would be someone who grew up in a society where the concept of God had simply never been invented. In this world, superstition never got past the hunter-gatherer stage - a world seemingly haunted by mostly amoral spirits - before coming into conflict with Science.
+## Jul 12 Bay Area meetup - Hanson, Vassar, Yudkowsky
+Overcoming Bias / Less Wrong meetup in Santa Clara, CA @7pm. Robin Hanson, Michael Vassar, and the Singularity Institute summer interns.
+## The Strangest Thing An AI Could Tell You
+Anosognosics are one of my favorite examples of this; people with right-hemisphere damage whose left arms become paralyzed. They deny that their left arms are paralyzed, coming up with excuses whenever they're asked why they can't move their arms.
+## Article upvoting
+The amount of article voting seems to be dropping off. As of now I'm still drawing the inference that no one thinks "Are You Anosognosic?" worthy of promotion.
+## Timeless Decision Theory: Problems I Can't Solve
+Theory of causal decision theory is a wash according to self-modifying AI-theorists. I've worked out what seems like an elegant theory, tentatively labeled "timeless decision theory"
+## The Hero With A Thousand Chances
+"Allow me to make sure I have this straight," the hero said. "I've been untimely ripped from my home world to fight unspeakable horrors, and you say I'm here because I'm lucky?" "There are kinds and kinds of luck," Aerhien said.
+## Unspeakable Morality
+The author is concerned about the need for moral justification. He argues that people should be allowed to argue with their moral thinking without having to justify it in words.
+## Dreams with Damaged Priors
+In one memorable dream a few years ago, I dreamed that the Wall Street Journal had published an article about "Eliezer Yudkowsky", but it wasn't me, it was a different Eliezer. I was able to explicitly apply Bayes's Theorem in my sleep to correctly compute the 1:1 likelihood ratio, but my dreaming mind didn't notice the damaged prior. With a damaged intuition for the weight of evidence, my dreaming brain was able. to explicitly compute a likelihood ratio and correct itself. But with a damaged. intuition, my mind didn’t successfully check itself, or even notice a problem - didn't. get as far as asking "But what is the prior probability?"
+## Singularity Summit 2009 (quick post)
+The Singularity Summit 2009 is in New York on Oct 3-4. There are discounts for students, blog mentions, referrals, and registration.
+## Ingredients of Timeless Decision Theory
+Followup to: Newcomb's Problem and Regret of Rationality, Towards a New Decision Theory.
+## Timeless Decision Theory and Meta-Circular Decision Theory
+Metacircular Decision Theory (MCDT) is a causality-based decision theory. It uses counterfactual surgery on the physical act to calculate its expected utility.
+## Working Mantras
+While working with Marcello on AI this summer, I've noticed that I have some standard mantras that I invoke in my inner dialogue. This says something about which tropes are most often useful.
+## The Sword of Good
+..fragments of a book that would never be written...
+## Bay Area OBLW Meetup Sep 12
+Bay Area OB/LW meetup, 6pm September 12th 2009 at the SIAI House in Santa Clara.
+## Forcing Anthropics: Boltzmann Brains
+Followup to: Anthropic Reasoning in UDT by Wei Dai.
+## Why I'm Staying On Bloggingheads.tv
+PZ Myers says he will stay on BloggingHeads.TV. He says he wants to debate accomodationist atheists who are insufficiently condemning of religion. Myers: BHTV has a commitment to having interesting discussions by people who disagree with each other.
+## FHI postdoc at Oxford
+Future of Humanity Institute at the University of Oxford is looking to fill a postdoctoral research fellowship in interdisciplinary science or philosophy. Current work areas include global catastrophic risks, probabilistic methodology and applied epistemology and rationality.
+## Outlawing Anthropics: An Updateless Dilemma
+Let us start with a (non-quantum) logical coinflip - say, look at the heretofore-unknown-to-us-personally 256th binary digit of pi, where the choice of binary digit is itself intended not to be random. If the result of this logical coin flip is 1 (aka "heads"), we'll create 18 of you in green rooms and 2 ofYou in red rooms, and if the result is "tails" (0), we'll have 2 of you and 18 of us.
+## The Lifespan Dilemma
+Dilemma is about whether to kill someone if they have a good quality of life. Parfit says it's better to have a million happy people than a billion people at subsistence level.
+## The Finale of the Ultimate Meta Mega Crossover
+Author of Vernor Vinge x Greg Egan crackfic.
+## The Anthropic Trilemma
+The problem of splitting a subjective worldline has been gnawing at me for years. If I make two copies of the same computer program, is there twice as much experience, or only the same experience?
+## Privileging the Hypothesis
+In the minds of human beings, if you can get them to think about this particular hypothesis rather than the trillion other possibilities, then you have done a good job. It's human nature to look for confirmation rather than disconfirmation.
+## I'm Not Saying People Are Stupid
+Razib: I never said during my talk that most people are stupid. I don't think that people who believe in single-world quantum mechanics are stupid, he says. Razib: In the closing sentence of my talk, I did not say that humanity was devoting more resources to football than existential risk prevention because we were stupid.
+## PredictionBook.com - Track your calibration
+PredictionBook.com lets you make predictions and then track your calibration. See whether things you assigned a 70% probability happen 7 times out of 10. The major challenge with a tool like this is coming up with good short-term predictions.
+## Waterloo, ON, Canada Meetup: 6pm Sun Oct 18 '09!
+Michael Vassar and I will be attending the Quantum to Cosmos Festival of the Perimeter Institute. We'll show up at the Symposium Cafe at 6pm, possibly walk around or head out to elsewhere by 6:30pm. We've both got a talk we want to attend at 8:00pm.
+## Rationality Quotes: October 2009
+A monthly thread for posting rationality-related quotes. No more than 5 quotes per person per monthly thread, please.
+## Rolf Nelson's "The Rational Entrepreneur"
+New blog up by longtime OB/LWer Rolf Nelson, "The Rational Entrepreneur" at rolfnelson.com. Rolf will post daily through November, and after that it will depend on how much traction the blog gets. First posts: Pay more attention to the statistics!
+## Hamster in Tutu Shuts Down Large Hadron Collider
+Large Hadron Collider has been plagued by construction delays, dead technicians, broken magnet supports, electrical faults, helium containment failures, vacuum leaks, birds with baguettes, ninjas, pirates, supervillains, hurricanes, asteroids.
+## Rationality Quotes November 2009
+A monthly thread for posting rationality-related quotes. No more than 5 quotes per person per monthly thread. Do not quote yourself.
+## Frequentist Statistics are Frequently Subjective
+Andrew Gelman responds to a commenter on the Yudkowsky/Gelman diavlog. The commenter complained that Bayesian statistics were too subjective and lacked rigor. Gelman: Bayesian probabilities don't have to be subjective.
+## The Contrarian Status Catch-22
+Atheists are more likely than priests to hear "But we don't know everything about the universe" or "What's with this air of satisfaction?" The Copenhagen interpretation of QM is recognized as a conventional non-strange belief.
+## Sufficiently Advanced Sanity
+Shalmanese's Third Law is based on the idea that sanity looks like insanity to the insane.
+## Karma Changes
+Each up or down vote on a post is worth 10 karma. The minimum karma to start posting has been raised to 50.
+## The 9/11 Meta-Truther Conspiracy Theory
+The 9/11 cover conspiracy theory is based on the idea that the World Trade Center was brought down by pre-planted explosives. The plotters create a low-prestige conspiracy theory and staff it with as many vocal lunatics as they can. The public doesn't understand how to discount that sort of "evidence", so they might actually be convinced.
+## TakeOnIt: Database of Expert Opinions
+The Correct Contrarian Cluster is a group of people who are trying to find out what the best way to deal with the world's problems is.
+## High Status and Stupidity: Why?
+Michael Vassar once suggested: "Status makes people effectively stupid, as it makes it harder for them to update their public positions"
+## Meetup: Bay Area: Jan 15th, 7pm
+Robin Hanson and possibly Michael Vassar will be present. Overcoming Bias / Less Wrong meetup in the San Francisco Bay Area.
+## Normal Cryonics
+Young people signed up for cryonics met older people signedup for cryonicists. Young cryonicist travel was subsidized. Most of the older cryonicism were heroes. Most young cryonicers weren't there to fight against Death.
+## Logical Rudeness
+The concept of "logical rudeness" is one that I should write more about, one of these days. One develops a sense of the flow of discourse, the give and take of argument. Swapping back and forth between arguments might seem merely frustrating, or rude, if you take the arguments at face value - if you stay on the object level.
+## You're Entitled to Arguments, But Not (That Particular) Proof
+Since this post has already gotten long, I've moved some details of probability theory, the subtext on cryonics, and the sub-subtext on molecular nanotechnology, into: Demands for Particular Proof: Appendices.
+## Demands for Particular Proof: Appendices
+Appendices to: You're Entitled to Arguments, But Not (That Particular) Proof. The absence of unobtainable proof is not even weak evidence of absence.
+## Floating Festival Jul 22-25
+The Seasteading Institute had to cancel their annual on-water get-together, Ephemerisle, after being quoted ridiculous insurance costs. It came back as the unofficial Floating Festival - no tickets, no organizers, you just show up with a boat. The location is about a two-hour drive from the Bay Area.
+## Bay Area Events Roundup
+Michael Vassar to speak at Bay Area Mensa on July 24th. Less Wrongers invited to attend.
+## LW's first job ad
+A friend of the Singularity Institute is seeking to hire someone to research trends and surprises in geopolitics, world economics, and technology. No experience necessary, but strong math and verbal skills required. Send résumé and cover letter to yuanshotfirst@gmail.com.
