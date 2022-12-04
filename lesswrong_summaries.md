@@ -1,4 +1,4 @@
-# The abbreviated Eliezer Yudkowsky
+# The Auto-abbreviated Eliezer Yudkowsky
 ## The Martial Art of Rationality
 Rationality is the 'martial art of mind' - but it's not about training muscles, it's about training brain machinery we have in common. Human species has acquired a great deal of new knowledge about human rationality in the last few decades. Humanity may finally be ready to synthesize the martial art of rationality to refine, share, systematize and pass on techniques of personal rationality.
 ## Why truth? And...
